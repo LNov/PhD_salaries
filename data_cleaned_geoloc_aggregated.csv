@@ -1,0 +1,753 @@
+,Unnamed: 0,University,Department,Overall Pay,LW Ratio,Academic Year,Program Year,Comments,lon,lat,merged,counts,pay_sum,pay_average
+0,1,University of Arizona (U of A),Economics,21000.0,1.01,2020-2021,1st,$10500 per semester. RA/TA required. Need to pay ~$600 per semester.,-110.94485900000001,32.224453999999994,False,47,916922.0,19508.978723404256
+2,3,University of Florida | university of florida,ECE,22600.0,,2020-2021,1st,,-82.34826699999998,29.647456,False,3,63624.0,21208.0
+3,4,University of Virginia (UVA) | University of virginia,ECE,26000.0,1.14,2020-2021,1st,,-78.5039985,38.035165,False,78,1933259.0,24785.371794871793
+4,5,"University of Wisconsin , Madison (UW) | University of Wisconsin Madison",,27333.0,1.2,2020-2021,,,-89.40809499999999,43.0732435,False,123,2775523.0,22565.227642276423
+5,6,Washington University in St. Louis (Wash U),olin,35000.0,1.69,2020-2021,1st,,-90.311359,38.648015,False,61,1758382.0,28825.93442622951
+6,7,"University of Tennessee , Knoxville",Economics,18500.0,0.87,2020-2021,1st,,-83.930266,35.953052500000005,False,49,1070391.0,21844.714285714286
+7,8,New York University (NYU) | Columbia University,Computer Science ,32851.0,1.1,2020-2021,1st,,-73.96215550000001,40.8075595,False,72,2332712.0,32398.777777777777
+9,11,Wright State University (WSU),BMS,21157.0,1.07,2020-2021,1st,,-84.064915,39.7814155,False,5,94332.0,18866.4
+11,14,University of Liverpool,Physics,18929.0,,2019-2020,1st,,-2.9682538125000004,53.40549950000001,False,4,73923.0,18480.75
+12,15,University of Delaware (UD) | University of Deleware,Geography & Spatial Sciences,27000.0,1.06,2020-2021,2nd,,-75.74845024999998,39.67988125,False,48,1230805.0,25641.770833333332
+13,16,"Stony Brook University , SUNY",biomedical engineering ,27000.0,0.97,2020-2021,,,-73.124151,40.914502,False,49,1229010.0,25081.836734693876
+14,17,Yale University (YU),Classics,32700.0,1.32,2020-2021,1st,"Health insurance included. I also receive an additional scholarship of $3,000 for the first 3 years of PhD plus a $2,000 research award for conference or fieldwork expenses.",-88.99720516199751,20.721291175999998,False,91,3068887.0,33724.03296703297
+15,18,Tufts University (TU),Molecular Microbiology,35250.0,1.26,2020-2021,2nd,,-71.115059,42.40899,False,30,841678.0,28055.933333333334
+16,19,Albert Einstein College of Medicine,Biomedical Science,38000.0,,2020-2021,1st,,-73.8454565,40.85072,False,5,172000.0,34400.0
+17,20,Cornell University (CU) | Columbia University (CU) | Clemson University (CU) | Teachers College Columbia University (CU) ,Neuroscience,42230.0,1.74,2020-2021,2nd,,-74.08083,4.59889,False,219,6709120.0,30635.25114155251
+18,21,Dalhousie University | Dalhousie Univerity,Psychology and Neuroscience,10000.0,,2019-2020,1st,"Our funding is also capped. This means that even if we win grants in an amount that surpasses our funding cap then we get the award as an ""honourary"".",-63.590612,44.6370765,False,4,51000.0,12750.0
+19,22,Massachusetts Institute of Technology (MIT),Chemical Engineering,43380.0,1.55,2020-2021,3rd,,-71.0935805,42.358984,False,73,2671935.0,36601.849315068495
+20,23,"University of California , Berkeley | University of California, Berkeley | University of California,Berkeley",Psychology,29000.0,1.04,2020-2021,1st,,-122.2591495,37.870499,False,137,4253636.0,31048.43795620438
+21,24,"Rutgers the State University of New Jersey , New Brunswick | Rutgers University",Linguistics,26800.0,1.04,2019-2020,1st,,-74.447763,40.50005625,False,52,1407136.0,27060.30769230769
+22,25,"University of North Carolina , Greensboro (UNCG)",Communication Sciences and Disorders,10000.0,0.47,2020-2021,4th,,-79.792,36.0726,False,14,219999.0,15714.214285714286
+24,27,Duke University (DU),Biomedical Engineering ,27700.0,1.25,2019-2020,4th,,-78.93713079999999,36.0060219,False,156,4609446.0,29547.73076923077
+26,29,"University of Texas , Dallas (UTD)",Psychological Sciences,18600.0,0.86,2017-2018,5th,,-96.750326,32.985556,False,28,652333.0,23297.60714285714
+27,30,"University of Wisconsin , Milwaukee (UWM)",English,13000.0,0.61,2020-2021,5th,,-87.885015,43.077073999999996,False,16,263641.0,16477.5625
+28,31,"University of North Carolina , Chapel Hill (UNC) | University of North Carolina at Chapel Hill ",Musicology,18000.0,0.81,2020-2021,3rd,,-79.049486,35.9083286875,False,140,3131377.0,22366.97857142857
+31,35,Colorado State University (CSU),Mathematics,19200.0,0.85,2019-2020,1st,"9 month is with a teaching assistantship, summer is an RA",-104.575749,38.309376,False,22,464567.0,21116.68181818182
+32,36,"University of Alabama , Birmingham (UAB)",GBS,31000.0,1.44,2020-2021,5th,,-86.802087,33.506034,False,23,573475.0,24933.695652173912
+33,37,Old Dominion University (ODU),Biology,17000.0,0.64,2019-2020,,"If youre lucky enough to be one of the few that gets a TAship over the summer you can make up to 21,000-22,000 a year but very few people get it in this department. ",-76.30044699999999,36.884704,False,8,165700.0,20712.5
+35,39,,,22000.0,,2020-2021,5th,,,,False,1,22000.0,22000.0
+36,40,"University of California , San Diego (UCSD) | University of California , Santa Cruz",Language and Communicative Disorders,23000.0,0.87,2019-2020,1st,,-122.05759450000001,36.9901525,False,126,3432611.0,27242.944444444445
+38,42,University of Utah,Mathematics,26000.0,1.17,2020-2021,1st,,-111.83788200000001,40.769754999999996,False,52,1221588.0,23492.076923076922
+39,43,University of Iowa (UI),Department of Anthropology ,20064.0,0.9,2020-2021,3rd,"Required fees tend to vary. For anthropology courses its cheaper, but taking biology courses will be a higher fee. ",-91.580951,41.674908,False,34,742098.0,21826.41176470588
+42,48,University of Otago,Psychology,24305.0,,2016-2017,3rd,In New Zealand Dollars. Stipend is tax free.,170.51343549999999,-45.8657665,False,1,24305.0,24305.0
+44,50,University of Zurich,Economics,44555.0,,2020-2021,1st,,8.5476405,47.376401,False,1,44555.0,44555.0
+45,51,,BSTP,30000.0,,2019-2020,1st,Can waive healthcare fee if already covered. Tuition covered thru BSTP PhD program. ,,,False,1,30000.0,30000.0
+46,52,Case Western Reserve University,BSTP,30000.0,1.5,2019-2020,1st,Can waive healthcare fee if already covered. Tuition covered thru BSTP PhD program. ,-81.609739,41.504526,False,33,807834.0,24479.81818181818
+47,53,Stanford University (SU),,45600.0,1.59,2019-2020,,,-115.114218,36.002823,False,111,4278557.0,38545.55855855856
+48,54,University of Pennsylvania | University of Pennsylvania ,Biochemistry and Molecular Biology,34000.0,1.41,2020-2021,2nd,,-75.191259,39.9492625,False,111,3518479.0,31698.00900900901
+49,55,Australian National University,RseS,29000.0,,2020-2021,3rd,,149.1181075,-35.283984999999994,False,1,29000.0,29000.0
+50,56,Harvard University (HU) | Howard University (HU),Systems Biology,40500.0,1.41,2020-2021,2nd,"Healthcare, gym membership, tuition, $1000 move-in stipend, all included.",-6.95,37.25,False,104,3579436.0,34417.653846153844
+51,57,"University of Maryland , College Park (UMD)","Applied Mathematics & Statistics, Scientific Computation (AMSC)",19277.0,0.64,2020-2021,2nd,"The amount for required fees is yearly, but it is billed as $815 per semester. The first two years of the program, nearly everyone is awarded a $5,000 yearly fellowship, which is not included in the gross pay above. It expires after the first two years.",-76.94796,38.984326,False,84,2006453.0,23886.345238095237
+52,58,University of Georgia (UGA),Pharmaceutical and Biomedical Sciences,25600.0,1.21,2019-2020,1st,,43.881434770301,42.3842114527972,False,39,856487.0,21961.20512820513
+54,60,Emory University,Cancer Biology,31000.0,1.33,2019-2020,1st,,-84.38642250000002,33.76855425,False,98,2645642.0,26996.34693877551
+55,61,"University of Hawaii , Manoa (UH)",Earth Sciences,31200.0,1.02,2018-2019,4th,,-81.3465,40.3931,False,24,517900.0,21579.166666666668
+56,62,University of British Columbia ,,14400.0,,2020-2021,4th,,-123.25061200000002,49.264573,False,12,228492.0,19041.0
+58,64,Brandeis University,Neuroscience,35000.0,1.25,2020-2021,1st,,-71.259119,42.366078,False,16,428900.0,26806.25
+59,65,Indiana University | Indiana University Bloomington,Anthropology ,15745.0,0.73,2020-2021,4th,,-86.52091300000001,39.167190000000005,False,86,1673016.0,19453.674418604653
+60,67,Northwestern University (NU),Anthropology,29780.0,1.23,2020-2021,4th,24k after taxes,-87.681944,42.050146000000005,False,105,3338999.0,31799.990476190476
+61,68,Marquette University,philosphy,16900.0,0.79,2020-2021,6th and up,,-87.92847900000001,43.0381805,False,7,152166.0,21738.0
+62,69,Virginia Commonwealth University (VCU),Biomedical Engineering ,27000.0,1.09,2020-2021,5th,1000 pay raise after PhD Candidacy ,-77.452015,37.548297,False,17,424518.0,24971.647058823528
+63,75,"University of Nebraska , Lincoln (NU) | University of Nebraska Medical Center",Communication Studies,15800.0,0.81,2019-2020,4th,,-96.70419,40.816183,False,23,458447.0,19932.478260869564
+64,76,University of Kansas (KU),CS/PhD,19000.0,0.93,2020-2021,2nd,,47.5906041080513,29.341211574302697,False,28,560894.0,20031.928571428572
+65,77,"Purdue University , West Lafayette",Communication ,25500.0,1.21,2020-2021,1st,Compensated for teaching a 2-2 course load. ,-86.92597925,40.426348,False,72,1531684.0,21273.38888888889
+70,82,"University of California , Davis (UCD)",Philosophy,21900.0,0.91,2020-2021,1st,"My total package with tuition remission is $40,422 with a 3% increase per year",-121.751827,38.539555,False,64,1590019.0,24844.046875
+71,83,University of Southern California (USC),Biology,35000.0,1.35,2020-2021,3rd,,-118.14106000000001,34.146771,False,121,3809703.0,31485.14876033058
+72,84,,,25000.0,,2020-2021,,,,,False,1,25000.0,25000.0
+74,87,Kent State University (KSU),Sociology,18000.0,0.91,2020-2021,1st,,11.255723,43.770458000000005,False,7,116000.0,16571.428571428572
+75,88,University of Alberta,Business,25000.0,,2020-2021,2nd,,-113.5228665,53.5246715,False,7,136761.0,19537.285714285714
+76,89,,BME,28700.0,,2020-2021,3rd,,,,False,1,28700.0,28700.0
+77,90,Georgia Institute of Technology (Georgia Tech),BME,28700.0,1.23,2020-2021,3rd,,-84.3926795,33.78023525,False,100,2471953.0,24719.53
+78,92,Tennessee State University (TSU),Biology,15000.0,0.65,2020-2021,4th,,-89.99091899999999,35.120488,False,1,15000.0,15000.0
+79,93,Florida Atlantic University (FAU),Integrative Biology,23000.0,0.96,2020-2021,3rd,,-80.101683,26.375453999999998,False,14,294032.0,21002.285714285714
+80,94,San Diego State University (SDSU),Computational Science,25000.0,0.94,2020-2021,1st,"University Fellowship. Not sure if you can earn more by TAing during the summer, but you probably can. Not likely to accept my offer, though.",-90.676855,35.839503,False,8,171950.0,21493.75
+81,96,Trinity College Dublin | Trinity College Dublin ,Chemistry,16000.0,,2020-2021,3rd,"We are paid a tax exempt stipend of 16000 euro, with fees covered by the grant.  We also are paid for teaching hours.",-6.257573875,53.34432087500001,False,7,114406.0,16343.714285714286
+82,97,,Statistics,18000.0,,2020-2021,1st,,,,False,1,18000.0,18000.0
+83,98,University of Padua,Statistics,18000.0,,2020-2021,1st,,11.8804325,45.407140500000004,False,1,18000.0,18000.0
+84,99,"University of Alabama , Huntsville (UAH) | University of Alabama in Huntsville",Space Sciences,14700.0,0.69,2018-2019,1st,,-86.640411,34.728415999999996,False,6,94287.0,15714.5
+85,100,University of Louisville (U of L),College of Education and Human Development ,24000.0,1.16,2020-2021,1st,,-85.584006,38.253366,False,14,287775.0,20555.35714285714
+86,101,University of Missouri (MU),Accounting,25900.0,1.26,2020-2021,1st,"Also pays for a computer, health care and additional fund of $1500 for travel",-117.31969199999999,34.173184,False,25,537668.0,21506.72
+87,102,Ohio State University (OSU),Neuroscience ,27600.0,1.38,2017-2018,6th and up,,-83.029862,40.020121,False,75,1787740.0,23836.533333333333
+88,103,,,35500.0,,2020-2021,,,,,False,1,35500.0,35500.0
+89,104,"University of California , Riverside (UCR)",Electrical and Computer Engineering,25000.0,1.04,2019-2020,,,-117.327529,33.970224,False,29,679951.0,23446.58620689655
+94,110,Vanderbilt University,English,26000.0,1.13,2020-2021,3rd,,-86.80421050000002,36.14688,False,73,2097399.0,28731.49315068493
+95,111,Wayne State University,Pharmaceutical Sciences,25000.0,1.2,2020-2021,,,-83.06965749999999,42.3568145,False,18,415766.0,23098.11111111111
+96,112,Carnegie Mellon University (CMU),Robotics Institute,36000.0,1.74,2020-2021,1st,,-79.94494350000001,40.44288975,False,48,1315542.0,27407.125
+97,113,"University of Illinois , Chicago (UIC)",Chemistry ,26400.0,1.09,2020-2021,4th,Fees are 50% less if you use your own healthcare provider.,-87.650264,41.873436,False,35,759875.0,21710.714285714286
+98,114,Florida State University (FSU),College of Communication and Infromation,15857.0,0.68,2020-2021,1st,,-84.298289,30.444751,False,26,515575.0,19829.80769230769
+100,117,Uniformed Services University of the Health Sciences,Clinical Psychology,33790.0,1.12,2020-2021,2nd,"Pay includes subway and books. University does not reimburse fully for health insurance (will cost ~$320/month), no annual pay increases, not allowed to get outside employment or take loans, no additional stipends allowed.",-77.0861685,39.001329,False,2,69790.0,34895.0
+102,119,,,33500.0,,2020-2021,,,,,False,1,33500.0,33500.0
+103,120,Scripps Research Institute (SRI) | The Scripps Research Institute,Chemistry,31000.0,1.17,2019-2020,5th,,-117.23920700000001,32.902363,False,11,335000.0,30454.545454545456
+104,121,The Catholic University of America,Physics,26750.0,0.87,2020-2021,4th,,-76.996299,38.933378000000005,False,11,188935.0,17175.909090909092
+106,123,West Virginia University (WVU),Physics,21750.0,0.97,2020-2021,1st,,-79.981236,39.6492345,False,22,468849.0,21311.31818181818
+107,124,Tulane University (TU),French,22000.0,0.95,2019-2020,3rd,,-87.55,33.21,False,22,501065.0,22775.68181818182
+108,125,Pennsylvania State University (Penn State),Sociology,20000.0,0.89,2016-2017,1st,,-77.86414400000002,40.80152075,False,104,2764634.0,26583.01923076923
+112,129,"University at Buffalo , SUNY",chemistry,26000.0,1.24,2020-2021,1st,,103.77640500000001,1.328776,False,45,881740.0,19594.222222222223
+115,132,"Texas A&M University , College Station | Texas A&M College Station",Physics,25200.0,,2020-2021,1st,,-96.342133,30.614044,False,51,1224325.0,24006.37254901961
+116,133,University of Connecticut (UConn),,35700.0,1.47,2020-2021,1st,,-72.2481995,41.8070105,False,32,792337.0,24760.53125
+118,135,University of Chicago,Chemistry,33640.0,,2019-2020,1st,,-87.604687,41.789889,False,1,33640.0,33640.0
+119,136,University of Houston (UH),Chemical Engineering,30000.0,1.37,2020-2021,1st,,-95.360387,29.766112,False,18,432293.0,24016.277777777777
+120,137,Gerstner Sloan Kettering (Memorial Sloan Kettering Cancer Center),Cancer Biology,42230.0,,2020-2021,1st,,-73.95684250000001,40.76439050000001,False,1,42230.0,42230.0
+123,140,"University of Michigan , Ann Arbor (UM)",Neuroscience,32739.0,1.42,2020-2021,2nd,,-83.73849799999998,42.2771875,False,126,3610930.0,28658.174603174604
+125,143,"University of Arkansas , Little Rock (UALR)",Computer Science,18000.0,0.86,2020-2021,1st,,-92.343652,34.775825,False,2,33621.0,16810.5
+126,144,,Computer Science,18000.0,,2020-2021,1st,,,,False,1,18000.0,18000.0
+127,146,"University of Texas Southwestern Medical Center , Dallas",Applied Clinical Research,35000.0,1.62,2020-2021,1st,,-96.858624,32.811842,False,14,483983.0,34570.21428571428
+129,148,,Rehabilitation Sciences,30000.0,,2020-2021,1st,,,,False,1,30000.0,30000.0
+136,156,The Ohio State University | The ohio state university,EEOB,28950.0,,2020-2021,2nd,,-83.01,40.0,False,6,140290.0,23381.666666666668
+139,159,"University of Texas Health Science Center , San Antonio",IBMS,30000.0,1.44,2020-2021,1st,,-98.4951,29.4246,False,4,110000.0,27500.0
+143,164,Princeton University,"Department of Music, Musicology",34250.0,1.35,2020-2021,1st,,-74.65832225,40.3451335,False,76,2574768.0,33878.52631578947
+145,166,Johns Hopkins University (JHU),Earth and Planetary Science,33333.0,1.3,2019-2020,1st,"$2000 one time bonus upon enrollment. To be used for education/research/moving related expenses.
+Funding is fixed through all years in the program.
+Funding is guaranteed by department for 4 years. However, students can almost always obtain funding for additional years of study as necessary.",-76.6203555,39.3289375,False,77,2266355.0,29433.18181818182
+150,171,,Materials Science and Engineering,28050.0,,2020-2021,1st,,,,False,1,28050.0,28050.0
+152,174,University of South Carolina (USC),Chemistry and Biochemistry,25000.0,1.11,2020-2021,1st,,-80.37595300000001,33.933772999999995,False,28,560949.0,20033.89285714286
+157,180,"University of California , San Francisco (UCSF)",biomedical sciences,41200.0,1.38,2020-2021,1st,,-122.458398,37.763313000000004,False,37,1396375.0,37739.86486486487
+158,181,University of South Florida (UCF),Psychology,16831.0,0.77,2020-2021,3rd,,-81.199302,28.595836,False,13,241780.0,18598.46153846154
+159,182,Arizona State University (ASU),History,18564.0,0.84,2020-2021,1st,,-111.932251,33.421066499999995,False,80,1639369.0,20492.1125
+160,183,Virginia Tech,Aerospace Engineering,24000.0,1.14,2020-2021,1st,,-80.40839349999997,37.207,False,43,992915.0,23091.04651162791
+161,184,Syracuse University,,28500.0,1.33,2020-2021,,,-76.13476,43.038514,False,32,707569.0,22111.53125
+164,187,Georgia State University (GSU),information system,26000.0,1.12,2020-2021,1st,,-84.389137,33.756428,False,35,636641.0,18189.742857142857
+165,188,The Hong Kong University of Science and Technology | The Hong Kong University of science and technology,Division of Social Science,34540.0,,2020-2021,1st,Got additional 5000 USD in the first year.,114.263211,22.3374505,False,3,74840.0,24946.666666666668
+171,194,University of Chicago (UC),Computer Science,36000.0,1.48,2020-2021,,,-77.04045699999999,38.898701,False,101,3162084.0,31307.762376237624
+174,197,"University of Nevada , Reno (UNR)",NRES,22200.0,1.06,2020-2021,1st,,-116.598821819119,40.071120297600004,False,17,369897.0,21758.647058823528
+175,199,"University of Maryland , Baltimore (UMB)",Pharmaceutical Health Services Research (PHSR) ,25000.0,0.97,2020-2021,2nd,,-76.626143,39.287555,False,16,445100.0,27818.75
+177,201,"University of California , Irvine (UCI)",Mathematics,21746.0,0.74,2019-2020,2nd,,-117.84198700000002,33.649718,False,55,1353339.0,24606.163636363635
+179,203,"University of California , Los Angeles (UCLA) | UCLa",Linguistics,35500.0,1.37,2020-2021,6th and up,,-118.44456299999999,34.071048,False,104,2956936.0,28432.076923076922
+184,208,University of Tennessee Health Science Center,Biomedical Sciences,28000.0,1.25,2020-2021,1st,,-90.03296999999999,35.140192,False,5,127105.0,25421.0
+187,211,"University of Texas , Austin (UT)",Physics,28654.0,1.26,2020-2021,1st,,-97.734734,30.269594,False,107,2700329.0,25236.719626168226
+191,215,"Southern Methodist University (SMU) | Southern Methodist University (SMU) , UTSW",Engineering,24000.0,1.11,2020-2021,1st,,-96.78474849999999,32.8429835,False,14,339158.0,24225.571428571428
+192,218,Rowan University ,Mechanical Engineering,30000.0,,2019-2020,1st,,-75.119952,39.710091999999996,False,2,58455.0,29227.5
+197,223,"University of Minnesota , Twin Cities (UM)",Applied Plant Sciences,29366.0,1.28,2020-2021,3rd,,51.4,25.42,False,103,2473949.0,24018.922330097088
+199,225,Baylor College of Medicine,biotechnology,30000.0,1.37,2020-2021,,,-95.39636999999999,29.7105295,False,34,999335.0,29392.20588235294
+201,228,,Civil Engineering,24000.0,,2020-2021,,,,,False,1,24000.0,24000.0
+202,229,"Kansas State University (K,State)",Civil Engineering,24000.0,1.09,2020-2021,,,-99.43687609999999,40.575773,False,10,205522.0,20552.2
+207,235,University of Vermont (UVM) | University of vermont,Neuroscience,28975.0,1.11,2020-2021,1st,,-73.1972305,44.477893,False,15,399116.0,26607.733333333334
+208,236,North Carolina State University (NCSU),Biomedical Engineering,39000.0,1.71,2020-2021,3rd,NSF GRFP (34K) plus supplement from advisor (5k),-78.6727755,35.7861945,False,51,1099017.0,21549.352941176472
+213,242,"University of Louisiana , Lafayette | University of Louisiana at Lafayette",Biology,22100.0,1.05,2020-2021,1st,TA stipend and additional scholarship from the Biology department. Health insurance not included.,-92.017388,30.213643,False,7,123436.0,17633.714285714286
+220,251,Iowa State University (ISU),Physics,24100.0,1.14,2018-2019,3rd,,-93.63266899999999,42.006865999999995,False,32,775645.0,24238.90625
+226,258,University of Oregon (UO),Media ,37337.0,1.78,2020-2021,1st,,-123.07203600000001,44.048269,False,29,630011.0,21724.51724137931
+229,261,University of Alabama (UA) | University of Denver (DU),Engineering,15750.0,0.75,2020-2021,1st,,55.415170999999994,25.105754,False,46,895561.0,19468.717391304348
+230,262,Oklahoma State University (OSU),Industrial Engineering MS,11000.0,0.57,2019-2020,2nd,,-95.988563,36.163864000000004,False,15,289232.0,19282.133333333335
+231,263,Texas Tech University (TTU),Computer Science PhD,29000.0,1.43,2020-2021,1st,,-101.886033,33.590215,False,22,391014.0,17773.363636363636
+233,265,,Computer Science,24400.0,,2019-2020,1st,It's very cheap in Pullman and funding is very good relatively. Though summer funding is not ensured for all. It's 2200 per month.,,,False,1,24400.0,24400.0
+234,266,Washington State University (WSU),Computer Science,24400.0,1.29,2019-2020,1st,It's very cheap in Pullman and funding is very good relatively. Though summer funding is not ensured for all. It's 2200 per month.,-119.2688,46.3252,False,23,402263.0,17489.695652173912
+235,267,University of Florida (UF) | University of Central Florida (UCF),Geological Sciences,26780.0,1.18,2020-2021,1st,In addition to tuition waiver. Overall pay doesn't include $10 per month for health insurance and graduate fees (~$1000-1400 per year). ,-81.197224,28.605102000000002,False,104,2320736.0,22314.76923076923
+238,271,University of North Texas (UNT),Accounting,22600.0,1.05,2020-2021,1st,,-97.14899799999999,33.210728499999995,False,14,249180.0,17798.571428571428
+239,272,Temple University (TU),Physics,28980.0,1.2,2019-2020,1st,University fellowship,-75.156314,39.97922,False,51,1153027.0,22608.37254901961
+240,273,University of Notre Dame (ND),History ,23000.0,1.12,2020-2021,4th,,151.218944,-33.88136,False,50,1365485.0,27309.7
+246,280,George Washington University (GW),Spanish ,14560.0,0.47,2020-2021,1st,,-77.046676,38.900132,False,19,507573.0,26714.36842105263
+248,282,"Southern Illinois University , Carbondale (SIUC)",Phd Matketing,16000.0,0.8,2020-2021,1st,I am starting PhD in Marketing from this Fall. Only comment is I wonder why the funding is so less. My friends in Nebraska are paid more than what I will be getting. I wonder if there is any chance the stipend would increase.,-89.224163,37.705418,False,5,81900.0,16380.0
+251,285,,Industrial and manufacturing engineering ,12500.0,,2019-2020,1st,,,,False,1,12500.0,12500.0
+252,286,North Dakota State University (NDSU),Industrial and manufacturing engineering ,12500.0,0.65,2019-2020,1st,,-96.803713,46.902255,False,8,118658.0,14832.25
+254,289,Idaho State University (ISU),Biological Sciences,15863.0,0.84,2020-2021,4th,,-112.43314099999999,42.864509999999996,False,7,117811.0,16830.14285714286
+256,291,Miami University (MU),Geography,13000.0,0.67,2020-2021,1st,,-84.72928300000002,39.500984499999994,False,8,154396.0,19299.5
+257,292,University of Cincinnati (UC),Political Science,17000.0,0.88,2020-2021,1st,,-84.515631,39.1319205,False,38,860965.0,22656.973684210527
+259,294," University of California Merced | University of California , Merced",Physics,28624.0,,2020-2021,,"As a foreign national citizen, this funding offer includes full coverage each semester of in-state tuition, student services fees, student health insurance plan fees, in addition to dental, vision and wellness benefits. You will also receive full coverage of Non-Resident Supplemental Tuition (NRST) for up to six semesters prior to advancement to candidacy. After advancement to candidacy, NRST will be waived for up to six semesters. Final determination of residency status is made by the Office of the Registrar after review of residency documentation.
+Salary/Stipend = $28,924,
+Tuition & Fees = $15,540 
+NRST = $15,102
+Total = $59,566",-120.42762649999999,37.364651,False,6,145945.0,24324.166666666668
+260,295,Colorado School of Mines | Colorado school of mines,materials science,30000.0,1.34,2020-2021,1st,,-105.22266,39.7503565,False,12,284400.0,23700.0
+261,296,Florida International University (FIU),Management information systems,24810.0,1.04,2020-2021,1st,,-80.37785450000001,25.75261375,False,17,393415.0,23142.058823529413
+271,309,Baylor University (BU),Mechanical Engineering,24000.0,1.21,2020-2021,1st,Insurance is partially or fully waived. Tuition is waived; figure mentioned here doesn't include tuition.,-78.85,42.93,False,18,352969.0,19609.38888888889
+272,310,,,18000.0,,2020-2021,,,,,False,1,18000.0,18000.0
+278,316,,PIBS/ Microbiology & Immunology,32700.0,,2020-2021,2nd,Im guaranteed full support for the duration of my Ph.D.  The listed amount does not include the tuition paid on my behalf to the university by my program. I also receive healthcare and dental benefits at no cost to me. ,,,False,1,32700.0,32700.0
+282,321,National Institutes of Health (NIH),GPP,34900.0,1.15,2020-2021,1st,,-77.099131,39.004425,False,14,430794.0,30771.0
+286,325,,Chemistry and Biochemistry,25700.0,,2019-2020,2nd,,,,False,1,25700.0,25700.0
+292,331,"University at Albany , SUNY",Education Policy and Leadership,18000.0,0.79,2020-2021,1st,,-73.749616,42.648305,False,18,333572.0,18531.777777777777
+299,338,"Louisiana State University , Baton Rouge",Communication Studies,15050.0,0.69,2020-2021,1st,,-91.178322,30.414604999999998,False,34,625245.0,18389.558823529413
+305,345,USC,ECE,32000.0,,2020-2021,,,-46.5611705,-23.6173355,False,1,32000.0,32000.0
+312,352,"Texas A&M University , Kingsville",Environmental Engineering ,15000.0,,2020-2021,2nd,"Students have to pay instate tuition, part of health insurance and fees. Instate tuition per credit is around $450.",-97.8824125,27.5248135,False,1,15000.0,15000.0
+313,353,"University of Maryland , Baltimore County (UMBC)",Electrical Engineering and Computer Science,19900.0,0.77,2020-2021,1st,,-76.707353,39.252183,False,7,143422.0,20488.85714285714
+320,360,,Educational Studies and Human Ecology ,26316.0,,2020-2021,1st,,,,False,1,26316.0,26316.0
+325,365,"University of Nevada , Las Vegas (UNLV)",Electrical and Computer Engineering ,14500.0,0.64,2020-2021,3rd,"The gross pay quoted above is for TAs for ten months. RAs usually get higher pay than this (up to $2000) for ten months. During summer, RAs get up $2,200.",-115.141826,36.107638,False,9,138250.0,15361.111111111111
+334,374,University of Miami (UM),Business,32225.0,1.35,2020-2021,1st,,-80.277772,25.720069,False,32,838985.0,26218.28125
+340,380,"University of California , Santa Barbara (UCSB)",Film Studies ,23000.0,0.88,2020-2021,1st,Not a great package. ,-119.84886999999999,34.413272,False,34,938410.0,27600.29411764706
+341,381,Portland State University (PSU),I/O Psychology,9220.0,0.39,2020-2021,1st,,-122.6742,45.5202,False,5,78340.0,15668.0
+342,382,SUNY College of Environmental Science and Forestry,EFB,12288.0,0.58,2019-2020,1st,This is the pay for developing research while having 20 hours of teaching responsibility per week,-76.135762,43.0349625,False,5,87408.0,17481.6
+349,389,University of Toronto ,Biochemistry ,22200.0,,2020-2021,1st,,-79.6626575,43.548175,False,4,83029.0,20757.25
+359,399,Dartmouth College,Psychological & Brain Sciences,31080.0,1.25,2020-2021,1st,,-72.28884249999999,43.70354,False,17,487086.0,28652.117647058825
+362,402,University of Tulsa (TU),Mechanical Engineering,25875.0,1.3,2019-2020,2nd,,-95.94638,36.1519115,False,7,134389.0,19198.428571428572
+366,406,Sam Houston State University,Criminal Justice ,25100.0,1.25,2020-2021,1st,"20K for academic year, 6.6K during the summer months. Health insurance not covered ",-95.470115,30.209207,False,2,45100.0,22550.0
+369,409,"University of Illinois , Urbana, Champaign (UIUC) | University of Illinois urbana | Unoversity of illinois",Electrical and Computer Engineering,26400.0,1.2,2020-2021,1st,11 months of support. Tuition waiver and partial fee waiver.,-88.2269005,40.11054,False,113,2691241.0,23816.29203539823
+373,413,Rice University,Bioengineering,31075.0,1.42,2020-2021,1st,,-95.4018215,29.717171,False,55,1460250.0,26550.0
+374,414,Cleveland State University (CSU),"biological, geological, and environmental sciences",21000.0,1.05,2020-2021,1st,,-81.675191,41.5020855,False,1,21000.0,21000.0
+377,417,,,32000.0,,2020-2021,2nd,,,,False,1,32000.0,32000.0
+378,418,Brown University,Epidemiology,26363.0,1.16,2019-2020,2nd,"* Summer is a free-for-all. You receive a fraction of a stipend, but will be responsible to make up the remaining amount with additional work, RAships, etc., but your expectation of work hours DOES NOT change!!",-71.40396199999999,41.8261575,False,51,1597243.0,31318.49019607843
+379,419,Duquesne University (DU),Pharmacology ,23000.0,1.11,2020-2021,1st,,-79.991974,40.4375005,False,8,157363.0,19670.375
+380,421,Medical University of South Carolina,Biomedical Data Science and Informatics ,29000.0,1.21,2020-2021,1st,,-79.94729699999999,32.784808,False,4,112700.0,28175.0
+393,437,Georgetown University,Biology,33000.0,1.07,2020-2021,3rd,,-77.072684,38.907701875,False,30,901329.0,30044.3
+395,439,University of Oklahoma (OU),Data Science and Analytics,19000.0,0.94,2020-2021,1st,,-97.446329,35.210669,False,25,437210.0,17488.4
+396,440,"CUNY , Hunter College",Biology,29872.0,1.0,2018-2019,2nd,Heavy teaching burden.  1/2-2/3 of my salary comes from TA.  Most phd students have to teach from the 2nd year through the end due to PI 's limited budget.  Nearly half of  my time is spent on teaching stuff.,-73.96421600000001,40.767824,False,4,107129.0,26782.25
+402,446,University of North Texas Health Science Center,Biomedical Sciences,26185.0,1.2,2020-2021,1st,Waived tuition and fees,-97.370063,32.748751,False,1,26185.0,26185.0
+408,452,Michigan Technological University (MTU),Mechanical Engineering,29000.0,1.43,2020-2021,4th,80% insurance is covered ($600 annual payment is required + $500 approx in other fees),-83.24918000000001,42.474756,False,11,238628.0,21693.454545454544
+410,454,Northern Arizona University (NAU),Ecosystem Sci & Society Ctr,27500.0,1.18,2020-2021,1st,"$20,000 for the academic year, $7500 summer stipend. Summer amount varies from lab to lab",-111.658162,35.189018,False,15,365960.0,24397.333333333332
+414,458,,political science ,18600.0,,2020-2021,1st,,,,False,1,18600.0,18600.0
+427,472,Illinois State University (ISU),structural engineering,24000.0,1.06,2020-2021,6th and up,,-88.995827,40.497316999999995,False,6,96281.0,16046.833333333334
+435,480,,Math,20950.0,,2020-2021,1st,Also receive SLOAN fellowship and Graduate College Fellowship,,,False,1,20950.0,20950.0
+449,495,Eastern New Mexico University,Biology,8500.0,,2019-2020,1st,Assistantships receive no tuition or fee waiver.,-103.3484345,34.17792,False,1,8500.0,8500.0
+450,496,Northeastern University (NU),Electrical and Computer Engineering,34200.0,1.19,2019-2020,1st,,-71.087029,42.339604,False,28,760867.0,27173.821428571428
+453,499,McGill University | McGill University ,Human Genetics/Kyoto-McGill Genomic Medicine,15000.0,,2019-2020,1st,"Additional $7,000.00 given one time for year spent at Kyoto University",-73.57661250000002,45.50478925,False,11,188700.0,17154.545454545456
+459,505,"University of Washington (UW) | University of Washington, Seattle",MCB,38700.0,1.66,2020-2021,,,-122.3076595,47.654538,False,89,2428762.0,27289.460674157304
+462,508,Montana State University (MSU),Chemistry and Biochemistry,25000.0,1.19,2020-2021,,350.00 per semester for 6 credits of mandatory fees only!   Health insurance is not covered.,-111.0497855,45.668667,False,12,256430.0,21369.166666666668
+467,514,Michigan State University (MSU),media and information,24733.0,1.21,2020-2021,1st,,-84.481719,42.731303000000004,False,57,1411652.0,24765.824561403508
+472,519,Drexel University (DU),Electrical Engineering,17820.0,0.74,2020-2021,4th,,-77.039427,38.900665999999994,False,64,1540899.0,24076.546875
+473,520,,,29000.0,,2020-2021,,,,,False,1,29000.0,29000.0
+476,523,University of Idaho (UI),,12000.0,0.58,2020-2021,1st,,-117.017473,46.72998825000001,False,6,99550.0,16591.666666666668
+477,524,,,12000.0,,2020-2021,1st,,,,False,1,12000.0,12000.0
+482,530,"University of Arkansas , Fayetteville",Geosciences,25100.0,1.26,2020-2021,1st,,-94.17576700000001,36.070014,False,19,438601.0,23084.263157894737
+483,532,Wake Forest University | Wake Forest University (WFU),Chemistry,25225.0,,2020-2021,,,-80.277438,36.135829,False,8,191299.0,23912.375
+486,536,Brigham Young University (BYU),Chemistry and Biochemistry,25000.0,1.21,2019-2020,2nd,,-111.6492175,40.2502805,False,3,66000.0,22000.0
+487,537,cu ansutlz,biomedical,32000.0,,2020-2021,1st,,,,False,1,32000.0,32000.0
+488,538,,biomedical,32000.0,,2020-2021,1st,,,,False,1,32000.0,32000.0
+499,550,,Computer Science,24600.0,,2020-2021,1st,,,,False,1,24600.0,24600.0
+500,551,Oregon State University (OSU),Computer Science,24600.0,1.18,2020-2021,1st,,-123.27774699999999,44.564894,False,19,400117.0,21058.78947368421
+505,556,Rensselaer Polytechnic Institute (RPI),Chemistry & Chemical Biology,30106.0,1.32,2020-2021,1st,,-73.67859899999998,42.7300305,False,19,477299.0,25121.0
+507,558,University of Akron | The University of Akron,Counseling Psychology,14000.0,0.71,2020-2021,1st,,-81.51047700000002,41.075425,False,9,157640.0,17515.555555555555
+509,561,"University of Colorado , Denver (UCD)",Micro,31000.0,1.38,2020-2021,,,-104.90136899999999,39.760436999999996,False,14,383640.0,27402.85714285714
+510,562,"University of Colorado , Anschutz meedical campus | University of Colorado Anschutz Medical Campus",Microbiology,31000.0,,2020-2021,,,-104.836993,39.746907,False,2,59500.0,29750.0
+511,564,,,19409.0,,2020-2021,,,,,False,1,19409.0,19409.0
+528,582,"Rutgers the State University of New Jersey , Newark | rutgers",Global urban studies,29000.0,1.07,2020-2021,1st,,-74.4107,40.4882,False,13,362026.0,27848.153846153848
+546,601,King's College London,Wellcome Trust PhD  Regenerative Medicine,32000.0,,2020-2021,1st,"Average 24816 across 4 years,  10,000 for research consumables, additional 'transition' fund, 23400 for international tuition fees.",-0.116376,51.511627000000004,False,1,32000.0,32000.0
+550,605,"University of Colorado , Boulder (UCB)",Chemistry,27868.0,1.09,2020-2021,1st,"Additional taxes taken out over summer, not guaranteed RA, could be a TA over summer. ",-105.2617842,40.006944700000005,False,61,1599181.0,26216.081967213115
+555,610,Auburn University (AU),Management,28000.0,1.29,2020-2021,1st,,-85.486436,32.603635,False,17,306873.0,18051.352941176472
+562,617,Weill Cornell Medicine,Neuroscience,42000.0,,2019-2020,3rd,,-73.95464875,40.76488575,False,4,162630.0,40657.5
+566,621,University of Pittsburgh | university of pittsburgh,chemistry,31000.0,1.5,2020-2021,1st,,-79.9543695,40.443979,False,51,1213833.0,23800.647058823528
+568,623,"University of Texas , San Antonio (UTSA)",Cell and Molecular biology,28000.0,1.35,2020-2021,1st,,-98.478763,29.416759999999996,False,6,129313.0,21552.166666666668
+571,626,University of Wyoming (UW),Psychology,17000.0,0.82,2020-2021,1st,,-105.5821365,41.313072999999996,False,8,129451.0,16181.375
+573,628,George Mason University (GMU),Computer Science,22500.0,0.75,2020-2021,1st,,-82.35062049999998,34.8491945,False,13,260842.0,20064.76923076923
+587,642,CUNY Graduate School and University Center,Sociology,26612.0,0.89,2020-2021,1st,,-73.9838295,40.74854000000001,False,40,1039372.0,25984.3
+593,648,University of Kentucky (UK),statistics,23200.0,1.14,2018-2019,1st,,-84.50858000000001,38.025426,False,85,1581260.0,18603.058823529413
+606,663,California Institute of Technology (Caltech),Electrical Engineering,37500.0,1.45,2020-2021,1st,,-118.125626,34.138344000000004,False,37,1247699.0,33721.59459459459
+613,671,New Jersey Institute of Technology,biomedical engineering,26000.0,0.96,2020-2021,1st,,-74.17889100000001,40.742124,False,9,205337.0,22815.222222222223
+617,675,Texas Christian University (TCU),Chemistry & Biochemistry,21000.0,0.96,2020-2021,3rd,,-97.37028199999999,32.702296999999994,False,8,164475.0,20559.375
+623,681,university of Massachusetts Amherst,mechanical engineering,31000.0,,2019-2020,1st,,-72.527413,42.388894,False,1,31000.0,31000.0
+645,707,"University of Massachusetts , Amherst (UMass)","Sociology, PhD",21500.0,0.94,2020-2021,1st,This is a TAship so teaching is reuired from the moment I arrive.,-72.53179300000001,42.388994,False,29,688652.0,23746.620689655174
+666,730,,Integrative Biology ,28092.0,,2020-2021,1st,,,,False,1,28092.0,28092.0
+670,735,Rochester Institute of Technology (RIT),Imaging Science,26124.0,1.22,2020-2021,3rd,,-77.678388,43.081992,False,5,125458.0,25091.6
+688,753,,history,30000.0,,2020-2021,,,,,False,1,30000.0,30000.0
+694,760,Boston University (BU),chemistry,36000.0,1.26,2020-2021,1st,,-71.104588,42.350218,False,70,1998307.0,28547.242857142857
+697,763,,,29567.0,,2019-2020,1st,,,,False,1,29567.0,29567.0
+698,764,University of Rochester (UR),Genetics,29567.0,1.38,2019-2020,1st,,7.4973529999999995,46.308815,False,66,1778720.0,26950.303030303032
+702,769,,,34800.0,,2020-2021,,,,,False,1,34800.0,34800.0
+707,774,,,21064.0,,2020-2021,,,,,False,1,21064.0,21064.0
+722,789,Ohio University,Higher Education,13500.0,,2019-2020,2nd,,-82.0324,39.962196,False,1,13500.0,13500.0
+746,817,,,36600.0,,2020-2021,,,,,False,1,36600.0,36600.0
+752,823,University of Mississippi Medical Center | University of Mississippi Medical Center ,Cell biology,26000.0,1.28,2020-2021,1st,,-90.174669,32.327884000000005,False,5,130300.0,26060.0
+758,830,Cold Spring Harbor Laboratory ,Watson school,36100.0,,2020-2021,1st,"Laptop provided in the first year. 
+Gym reimbursement $350/year.
+Free health and dental insurance (vision is not free)
+$8k/year for lab related expenses such as conference or new equipment.",-73.46703199999999,40.859398,False,8,273550.0,34193.75
+762,834,Mississippi State University (MSU),Chemistry ,19400.0,0.89,2020-2021,1st,,-88.794431,33.455133000000004,False,11,186879.0,16989.0
+772,844,,School of Information Science,23100.0,,2020-2021,2nd,,,,False,1,23100.0,23100.0
+776,851,SUNY Downstate Medical Center,,27600.0,0.93,2020-2021,3rd,,-73.9450875,40.6552505,False,1,27600.0,27600.0
+796,873,East Carolina University (ECU),Music,9000.0,0.42,2017-2018,2nd,,-77.321777,35.628977,False,5,93364.0,18672.8
+799,876,Cambridge University,Physics,19000.0,,2019-2020,2nd,Basically minimum wage in the UK. Accommodation is $750/month. Livable but can't save any money,0.1204895,52.203256,False,2,33500.0,16750.0
+821,902,Ohio University (OU),Environmental and Plant Biology ,18116.0,0.86,2020-2021,4th,,-81.51,41.07,False,29,438524.0,15121.51724137931
+824,905,"University of Texas Medical Branch , Galveston",Human Pathophysiology and Translational Medicine,31000.0,1.42,2020-2021,4th,,-94.8085355,29.2844005,False,8,241900.0,30237.5
+844,925,"University of Leeds, UK",Psychology,35000.0,,2020-2021,1st,,-1.552503,53.807217,False,2,53406.0,26703.0
+865,947,Cornell Tech,Computer Science,40000.0,,2019-2020,3rd,,-73.957107,40.755223,False,1,40000.0,40000.0
+866,948,Boston College (BC),Sociology,23000.0,0.82,2019-2020,1st,,-71.16855,42.337410999999996,False,18,442430.0,24579.444444444445
+867,950,American University (AU),Communication ,22000.0,0.71,2019-2020,,"Health insurance, subway pass,  subsidized parking, travel stipend",-77.080507,38.945425,False,7,153146.0,21878.0
+869,953,King Abdullah University of Science and Technology | KAUST,Red Sea Research Center ,30000.0,,2019-2020,2nd,Tax-free stipend. Also get free housing and annual travel allowance to return to home country. ,39.1049985,22.3095145,False,2,60000.0,30000.0
+871,955,Sciences Po,Economics,21560.0,,2018-2019,3rd,We have to pay 440 of tuition annually. ,2.3288220546875,48.8550295703125,False,1,21560.0,21560.0
+873,957,University of Barcelona,,15850.0,,2015-2016,5th,,2.1637255,41.38626,False,1,15850.0,15850.0
+874,958,University of Bar,,15850.0,,2015-2016,5th,,16.86839875,41.120678000000005,False,1,15850.0,15850.0
+881,965,,Chemistry,28000.0,,2019-2020,2nd,,,,False,1,28000.0,28000.0
+884,968,St. John's University (SJU),Psychology,16000.0,,2019-2020,3rd,,-3.2101919999999997,39.393854,False,2,31700.0,15850.0
+901,989,Bristol,Physics,14256.0,,2015-2016,4th,,-2.58333,51.45,False,1,14256.0,14256.0
+909,998,University College Dublin | University college Dublin ,Physics,16620.0,,2019-2020,3rd,,-6.2201315,53.306833,False,5,84292.0,16858.4
+912,1001,,Driskill Graduate Program,32000.0,,2017-2018,5th,Benefits provided.,,,False,1,32000.0,32000.0
+914,1003,Western Michigan University (WMU),Psychology ,13000.0,0.64,2018-2019,1st,Tuition is paid up to 9 credits ,-85.66996400000001,42.959638,False,5,70484.0,14096.8
+933,1025,"Sorbonne , Paris VI",Neuroscience,34306.0,,2015-2016,4th,"Paris, France",2.34410075,48.84731675000001,False,1,34306.0,34306.0
+936,1028,Bowling Green State University (BGSU),College of Musical Arts,12500.0,0.67,2016-2017,4th,,-83.63736800000002,41.378682,False,21,300378.0,14303.714285714286
+954,1048,Mount Sinai School of Medicine,PhD program,39000.0,1.31,2019-2020,5th,"Basic health insurance included, vision/dental is additional $",-73.952448,40.790284,False,11,410000.0,37272.72727272727
+959,1054,University of Massachusetts Dartmouth,Biology,17900.0,,2018-2019,2nd,,-71.006271,41.628854,False,1,17900.0,17900.0
+964,1059,Western Sydney University,School of Science/PhD,26600.0,,2019-2020,3rd,,151.07108,-33.84561,False,1,26600.0,26600.0
+998,1093,"University of Massachusetts , Lowell (UML)",Criminology and Justice Studies,14620.0,0.52,2019-2020,2nd,I pay part of my health insurance (380) but the majority of it is covered. I also pay for books and materials obviously.,-71.314266,42.641937,False,6,109400.0,18233.333333333332
+1005,1100,,Plant and microbial biology,17000.0,,2019-2020,2nd,,,,False,1,17000.0,17000.0
+1008,1105,University of Ottawa,Neuroscience,9800.0,,2018-2019,1st,,-75.683077,45.42237,False,5,79800.0,15960.0
+1013,1110,Imperial College London,Chemical Engineering,22321.0,,2019-2020,3rd,,-0.1769325,51.4985565,False,4,89836.0,22459.0
+1014,1111,universite de montreal | Universite de Montreal,computer science,25000.0,,2019-2020,,,-73.6161915,45.50323450000001,False,2,50000.0,25000.0
+1019,1116,University of Sussex ,Life science ,18475.0,,2019-2020,4th,,-0.08701,50.865798,False,1,18475.0,18475.0
+1020,1118,KU Leuven,Economics,33000.0,,2018-2019,4th,,4.502031,51.06812,False,2,60959.0,30479.5
+1021,1119,"City, University of London",Mathematics,16000.0,,2019-2020,1st,,-0.102364,51.527478,False,1,16000.0,16000.0
+1022,1120,University of Warwick (UK),Chemistry,19685.0,,2019-2020,3rd,,-1.561638,52.380857,False,2,40685.0,20342.5
+1023,1121,University of Oxford | University of oxford,Chemistry,19700.0,,2019-2020,3rd,,-1.2477805,51.750847500000006,False,4,77858.0,19464.5
+1024,1122,"Birkbeck, University of London",Biological sciences,20000.0,,2014-2015,4th,,-0.12975997265625,51.52248393945312,False,1,20000.0,20000.0
+1026,1124,University of Birmingham  | University of Birmingham (UK),PhD metallurgy and Materials,19721.0,,2018-2019,1st,,-1.9305515,52.450079,False,2,34902.0,17451.0
+1027,1125,Laval university,Forestry ,18000.0,,2019-2020,3rd,,-73.721343,45.558582,False,1,18000.0,18000.0
+1029,1127,University of Tokyo,Computer Science ,36000.0,,2019-2020,3rd,,139.761332,35.713013000000004,False,1,36000.0,36000.0
+1030,1128,University College London,Physics,22336.0,,2018-2019,1st,,-0.129293625,51.522746416015615,False,3,61536.0,20512.0
+1031,1130,University of Cambridge,PhD Psychiatry,22300.0,,2018-2019,3rd,,0.136473,52.186507,False,2,30010.0,15005.0
+1033,1132,Irell & Manella Graduate School of Biological Sciences at Beckman Research Institute | Irell and Manella Graduate School of Biological Sciences | Irell and Manella Graduate School of Biological  Sciences,,33850.0,,2017-2018,6th and up,This is the graduate program at the Beckman Research Institute at The City of Hope in Duarte CA,100.301457,5.355946,False,3,101700.0,33900.0
+1034,1133,University of Cape Town,Civil Engineering,15500.0,,2018-2019,4th,South Africa's cost of living is not too high. Most PhD grad students get less than this.,18.46,-33.96,False,1,15500.0,15500.0
+1038,1139,University of Antwerp,Biology,26440.0,,2012-2013,1st,,4.411748,51.223177500000006,False,1,26440.0,26440.0
+1039,1140,Fordham University (FU) | California state university,Economics,23900.0,0.8,2018-2019,2nd,,-117.8846615,33.880694,False,6,148790.0,24798.333333333332
+1041,1142,"Scuola Normale Superiore | Scuola normale superiore , Pisa (IT)",Neuroscience,18700.0,,2019-2020,4th,"Health insurance covered, visa fees covered, several months maternity leave, free meals offered from the university canteen. 4 year limit.",10.400176,43.719525,False,2,36340.0,18170.0
+1042,1143,"Champalimaud Foundation , Lisbon, Portugal",INDP,12000.0,,2018-2019,2nd,,-9.16667,38.71667,False,1,12000.0,12000.0
+1043,1144,Leuphana University,Political science ,17400.0,,2018-2019,3rd,"Three year stipend, untaxed ",10.4007845,53.229231000000006,False,1,17400.0,17400.0
+1046,1147,University of Hong Kong | The university of Hong Kong,Education,36223.0,,2018-2019,2nd,3 year programme fully funded with HK Government PhD Fellowship,114.12827549999999,22.2674955,False,3,88373.0,29457.666666666668
+1050,1152,Yeshiva University (YU),Neuroscience,33000.0,1.11,2018-2019,6th and up,,29.975071500000002,40.7081765,False,5,167000.0,33400.0
+1064,1168,Wichita State University (WSU),Psychology ,11000.0,0.55,2018-2019,5th,Provided in-state tuition at 100% coverage but only because I teach four undergraduate courses with up to 90 students. ,-97.459918,37.753009999999996,False,3,43800.0,14600.0
+1068,1174,University of New Mexico (UNM),Biomedical Sciences,22000.0,1.05,2019-2020,5th,,-106.6208755,35.083292,False,8,153286.0,19160.75
+1069,1175,University of Turku,TuDMM,25000.0,,2019-2020,3rd,About 1700/month after taxes,22.27,60.45166999999999,False,1,25000.0,25000.0
+1072,1181,University of Texas at Austin,Computational Science and Engineering,30000.0,,2019-2020,2nd,NIMS Fellowship,-97.735642,30.2853755,False,2,60000.0,30000.0
+1075,1184,University of Mississippi (Ole Miss),BioMolecular Sciences,23300.0,1.08,2018-2019,3rd,,-89.546752,34.358245000000004,False,8,145366.0,18170.75
+1081,1191,Saint Louis University,Psychology ,21670.0,,2019-2020,4th,Contract is for 11 months ,120.5977375,16.418310499999997,False,4,92097.0,23024.25
+1086,1197,University of New Orleans (UNO),Biology,22400.0,0.97,2017-2018,1st,,-90.066948,30.027503000000003,False,8,127450.0,15931.25
+1099,1211,Oakland University (OU),Psychology,15000.0,0.72,2018-2019,,,-79.9557,40.439,False,2,36000.0,18000.0
+1101,1214,Stevens Institute of Technology,Computer Science,33000.0,1.24,2019-2020,1st,,-74.0246695,40.7449025,False,5,133875.0,26775.0
+1104,1219,Simon Fraser university | Simon Fraser University ,Bpk,17500.0,,2018-2019,4th,,-122.917549,49.279063,False,5,95317.0,19063.4
+1109,1225,Rosalind Franklin University of Medicine and Science,Neuroscience,30500.0,1.26,2019-2020,1st,,-87.8581,42.300587,False,1,30500.0,30500.0
+1122,1238,University of South Dakota,Biology - Phd ,13530.0,0.68,2019-2020,3rd,"Summer funding isnt guaranteed and depends on if you can get work study. Summer pay usually hovers around $5,000 (for 3 months) but it has been less in the past. 2/3rds of tuition is paid for by the university, but we still pay the other 1/3 + fees. Department RAs pay the same as TAs, but you dont have to teach. We are also not offered health insurance in any form. The salary I entered is only for PhD students, MS students only make $13,289",-96.9252205,42.7860455,False,3,55837.0,18612.333333333332
+1132,1248,"CUNY , Queens College",Clinical Psychology,25000.0,0.84,2019-2020,3rd,"I have a Graduate Center Fellowship, other students are tuition fellowship only. All fees are covered by tuition fellowship",-73.821835,40.735942,False,2,51000.0,25500.0
+1137,1253,"Duke,NUS, Singapore",,26440.0,,2018-2019,3rd,,103.83419,1.280848,False,1,26440.0,26440.0
+1139,1255,James Cook University,College of Science,22650.0,,2019-2020,4th,"Australian University, therefore gross pay is in Australian Dollars",146.75704199999998,-19.327192999999998,False,1,22650.0,22650.0
+1146,1262,,Medical Microbiology and Infectious Diseases,18700.0,,2018-2019,4th,"1st and 2nd year cost $14,000. And the stipend is still the same",,,False,1,18700.0,18700.0
+1147,1264,University of Manitoba | University of Manitoba ,Medical Microbiology and Infectious Diseases,18700.0,,2018-2019,4th,"1st and 2nd year cost $14,000. And the stipend is still the same",-97.1341575,49.8091545,False,4,72600.0,18150.0
+1151,1269,,,17500.0,,2015-2016,4th,,,,False,1,17500.0,17500.0
+1152,1270,,,9000.0,,2011-2012,3rd,,,,False,1,9000.0,9000.0
+1153,1271,University of Montreal,Biology,10500.0,,2014-2015,1st,,-73.560142,45.510265999999994,False,1,10500.0,10500.0
+1189,1311,Osaka University,Immunology Frontier Research Center,18400.0,,2017-2018,3rd,,135.520052,34.823534,False,1,18400.0,18400.0
+1195,1317,University of Calgary,Computer Science,37525.0,,2019-2020,4th,,-114.128802,51.07774375,False,3,75525.0,25175.0
+1196,1318,University of Auckland,Biological Sciences,18800.0,,2019-2020,2nd,,174.769619,-36.851942,False,2,33800.0,16900.0
+1203,1325,Universite Laval,Nutrition,27000.0,,2017-2018,1st,,-71.27570800000002,46.7812205,False,1,27000.0,27000.0
+1205,1327,University of Exeter,Politics,28187.0,,2019-2020,2nd,Wellcome Trust Studentship,-3.53471625,50.735925125,False,2,47787.0,23893.5
+1208,1330,Saarland University,Language Science and Technology,35985.0,,2018-2019,3rd,,7.0416205000000005,49.2552315,False,2,75485.0,37742.5
+1214,1336,Wake Forest School of Medicine,Biomedical Engineering,29651.0,,2019-2020,3rd,"Note that there can be confusion regarding Wake Forest University. Graduate students in the biomedical sciences program of the Wake Forest University Graduate School of Arts and Sciences are NOT financially affiliated with Wake Forest University.  We are financially connected to the Wake Forest School of Medicine and make higher stipends than graduate students at Wake Forest University.
+Note that insurance is an extra $302.42 per month, vision insurance is $141.36 per year, and dental insurance is $535.30 per year.",-80.266562,36.089428000000005,False,1,29651.0,29651.0
+1216,1338,Oregon Health and Science University,PMCB,30000.0,1.28,2018-2019,,,-122.68649575,45.49915725,False,19,549089.0,28899.42105263158
+1218,1340,"The University of Melbourne, Australia",Melbourne School of Psychological Sciences ,30000.0,,2016-2017,3rd,,145.021664,-37.828897,False,1,30000.0,30000.0
+1219,1341,University of Saskatchewan ,Veterinary Microbiology ,10593.0,,2019-2020,4th,,-106.633973,52.1304975,False,3,60093.0,20031.0
+1220,1342,Goldsmiths,Psychology,22000.0,,2019-2020,1st,,-0.0371685,51.4748595,False,1,22000.0,22000.0
+1222,1344,,Earth and Environmental Sciences,33656.0,,2019-2020,1st,The fee is for health insurance and $30 for the graduate student union fee. I dont pay tuition. ,,,False,1,33656.0,33656.0
+1223,1345,Wesleyan University,Earth and Environmental Sciences,33656.0,1.34,2019-2020,1st,The fee is for health insurance and $30 for the graduate student union fee. I dont pay tuition. ,120.97546200000001,15.484891000000001,False,8,246207.0,30775.875
+1229,1352,"University of Arizona College of Medicine,Phoenix",Clinical Translational Science ,25000.0,,2019-2020,2nd,,-110.946481,32.239905,False,1,25000.0,25000.0
+1236,1360,"University of Nottingham, UK",Psychology,23000.0,,2015-2016,3rd,tax free,-1.198199,52.939216,False,3,63600.0,21200.0
+1241,1365,,Biological Sciences,16547.0,,2018-2019,3rd,,,,False,1,16547.0,16547.0
+1246,1372,"University of Texas , El Paso (UTEP)",Biological Sciences,16260.0,0.78,2018-2019,3rd,,-106.50516200000001,31.767388,False,8,133760.0,16720.0
+1247,1373,St. Louis University (SLU),Experimental Psychology,21650.0,1.05,2019-2020,1st,"We are actually paid for 11 months out of the year, not 12. For our program, guaranteed funding through the department for first two years and then you're expected to work with faculty to find other assistantships throughout campus. ",17.0433125,54.452358,False,7,137000.0,19571.428571428572
+1252,1378,University of Maine,School of Forest Resources,19300.0,0.9,2019-2020,1st,,-67.457369,44.7097515,False,9,183609.0,20401.0
+1259,1385,"University of New South Wales | University of New South Wales, Sydney",Biology,41820.0,,2018-2019,2nd,,151.231356,-33.917295,False,3,94920.0,31640.0
+1265,1391,Boise State University (BSU),Geosciences,28000.0,1.43,2018-2019,3rd,,-116.20598899999999,43.604246,False,6,131000.0,21833.333333333332
+1267,1394,McMaster University | mcmaster university,Health Research Methods,15000.0,,2019-2020,,Canadian,-79.9191015,43.262097499999996,False,6,93418.0,15569.666666666666
+1279,1409,Memorial University,Geography,19500.0,,2018-2019,4th,Excludes TA pay which  is not guranteed every semester. ,-81.08945025,32.030139250000005,False,1,19500.0,19500.0
+1282,1412,New Mexico Institute of Mining and Technology,Physics/Atmospheric,22500.0,1.39,2013-2014,6th and up,This includes tuition and fees,-106.905247,34.067465000000006,False,3,66570.0,22190.0
+1284,1414,,Physics/Atmospheric,22500.0,,2013-2014,6th and up,This includes tuition and fees,,,False,1,22500.0,22500.0
+1285,1415,Texas A&M University at Galveston,MARB ,14150.0,,2019-2020,5th,,-94.8179335,29.3153665,False,1,14150.0,14150.0
+1287,1417,Loyola University Chicago (LUC),College of Education,16000.0,0.73,2014-2015,3rd,,-87.66022,41.997427,False,15,361833.0,24122.2
+1292,1422,"Victoria University of Wellington, NZ",Ferrier Research Institute,27500.0,,2019-2020,3rd,Price in NZD,174.77722,-41.28889,False,1,27500.0,27500.0
+1293,1423,University of Toledo | The University of Toledo,School of Exercise and Rehabilitation Sciences,14100.0,0.75,2019-2020,4th,,-83.61460037500002,41.660675,False,18,359192.0,19955.11111111111
+1299,1429,"Indiana University, Purdue University , Indianapolis (IUPUI)",MSME,14600.0,0.71,2019-2020,1st,,-86.1744085,39.7740625,False,6,164600.0,27433.333333333332
+1306,1436,"University of Massachusetts Medical Center , Worcester",,32000.0,1.42,2019-2020,1st,,-71.76302050000002,42.2771775,False,5,154500.0,30900.0
+1309,1439,"Louisiana State University School of Medicine , New Orleans",Cell Biology and Anatomy ,22700.0,0.99,2018-2019,3rd,"Our health insurance is very, very expensive.  Even though we are graduate students and do not interact with patients, we are required to opt into insurance that covers far too much. ",-90.078947,29.956402,False,3,68900.0,22966.666666666668
+1310,1440,The University of Queensland ,School of Psychology,27300.0,,2018-2019,2nd,$AUD not $USD,153.014115,-27.49818525,False,1,27300.0,27300.0
+1314,1444,"Cedars,Sinai Medical Sciences, Los Angeles",Biomedical Sciences,41000.0,,2018-2019,2nd,Benefits are additional (health insurance/ PTO/ sick leave),-118.2439,34.0544,False,1,41000.0,41000.0
+1317,1447,Queensland University of Technology (QUT),Medical Engineering,19500.0,,2018-2019,1st,Australian universities have 3-3.5 year PhD programs ,144.550390100876,-22.572791380199998,False,1,19500.0,19500.0
+1325,1455,Central European University,Network and Data Science,9950.0,,2018-2019,3rd,,19.049355,47.501104,False,1,9950.0,9950.0
+1339,1469,University of Edinburrgh | University of Edinburgh,Astronomy,14000.0,,2017-2018,4th,,-3.18805,55.944954,False,3,59230.0,19743.333333333332
+1342,1472,Utah State University (USU),Wildland Resources,18000.0,0.87,2019-2020,1st,"Use my parents insurance, but dont get the money set aside for my grad student insurance added back.",-110.80357450000001,39.607901500000004,False,17,341161.0,20068.29411764706
+1343,1473,,Department of Materials,19500.0,,2019-2020,3rd,,,,False,1,19500.0,19500.0
+1349,1481,"University of Dublin, Trinity college Dublin ",Bioengineering ,11000.0,,2019-2020,1st,"No tax, fee is taken from the scholarship ",-6.24606,53.343527,False,1,11000.0,11000.0
+1354,1486,Maynooth University ,biology,19856.0,,2018-2019,2nd,,-6.5976325,53.380368,False,1,19856.0,19856.0
+1367,1501,,SOCIOLOGY,9000.0,,2018-2019,,,,,False,1,9000.0,9000.0
+1368,1502,University of Brighton ,Humanities,20280.0,,2018-2019,3rd,That is the AHRC base rate plus a 500 extra for doing a collaborative doctoral award. I get paid to teach on top of that if I choose to and also have access to around 4000 in research costs.,-0.11920499999999999,50.842465000000004,False,1,20280.0,20280.0
+1375,1509,Inrs,Biology,21600.0,,2018-2019,4th,,-9.513129,53.064235,False,1,21600.0,21600.0
+1389,1523,"CUNY , City College",Biology,29000.0,0.98,2019-2020,3rd,~$15 per month for health insurance ,-118.14,33.83,False,6,175136.0,29189.333333333332
+1400,1534,Rockefeller University,Biological Sciences,41700.0,1.4,2018-2019,5th,,-73.9559165,40.76267350000001,False,7,275530.0,39361.42857142857
+1405,1539,East Tennessee State University (ETSU) | Middle Tennessee State University (MTSU),Psychology,13000.0,0.64,2019-2020,1st,,-82.36827,36.303511,False,6,85020.0,14170.0
+1434,1572,,Molecular Biology,37100.0,,2018-2019,1st,,,,False,1,37100.0,37100.0
+1449,1587,Gerstner Sloan Kettering Graduate School of Biomedical Sciences,Cancer Biology,41000.0,,2019-2020,,"Includes insurance, housing is subsidized",-73.956627,40.765097999999995,False,1,41000.0,41000.0
+1450,1588,Texas Woman's University | Texas Woman's University ,Biology,8700.0,,2018-2019,4th,Our fees are to be paid by the students.,-97.135562,33.229271999999995,False,2,20700.0,10350.0
+1452,1590,Strathclyde,Chemistry,18907.0,,2018-2019,1st,,-4.242755000000001,55.863002,False,1,18907.0,18907.0
+1453,1591,Lehigh University,Biological sciences ,25000.0,1.12,2018-2019,5th,,-75.37728299999999,40.607046000000004,False,11,262190.0,23835.454545454544
+1460,1598,University of South Florida (USF),Anthropology,17200.0,,2018-2019,2nd,Not allowed to seek additional employment,-82.41196400000003,28.057515,False,12,286200.0,23850.0
+1461,1599,"CINVESTAV del IPN, Mexico",LANGEBIO - UGA,15408.0,,2018-2019,,CONACYT scholarship,-100.20855999999999,25.687751000000002,False,1,15408.0,15408.0
+1490,1628,The University of Birmingham,Computer science,29000.0,,2018-2019,1st,,-1.9076099999999998,52.488772,False,1,29000.0,29000.0
+1497,1635,Cranfield University,PhD Engineering,19645.0,,2018-2019,,,-0.6280375,52.073466,False,1,19645.0,19645.0
+1503,1643,,Biomedical Engineering,24982.0,,2017-2018,1st,Health insurance (~$1000) reimbursed by department. Mandatory fee = graduate student activity fee.,,,False,1,24982.0,24982.0
+1504,1644,"University of St Andrews, UK",Eastbio BBSRC,27500.0,,2015-2016,1st,I received an enhanced stipend for being a veterinary surgeon ,-2.793838,56.341364,False,2,40409.0,20204.5
+1505,1645,Weill Cornell Medical School,Developmental Biology,34000.0,,2013-2014,,,-75.53,39.16,False,1,34000.0,34000.0
+1523,1664,"University of Massachusetts , Boston (UMB)",Chemistry ,18200.0,0.64,2019-2020,2nd,"Summer work is not guaranteed, but if you do get a summer session, it is $3500. If you get both summer sessions, it is $7000.
+Insurance costs $3000, and UMB reimburses about half. Dental is about $700 I think and they reimburse half. T passes are 11% discount or parking is ~$155/month. A lot of us in Chemistry have second jobs.",-71.06089,42.358315000000005,False,5,104308.0,20861.6
+1528,1669,University of Gothenburg (Sweden),Computer Science,43194.0,,2019-2020,4th,"Employment, net pay has a 33% Tax Deduction.",11.961307,57.6970935,False,2,80540.0,40270.0
+1546,1688,Ottawa Hospital Research Institute,Cancer Therapeutics Program,22000.0,,2018-2019,4th,,-75.72414599999999,45.392828,False,1,22000.0,22000.0
+1552,1694,Central Michigan University (CMU),Experimental Psychology,12600.0,0.73,2006-2007,1st,,-84.035546,43.438992999999996,False,3,40200.0,13400.0
+1563,1705,Arkansas State University,Molecular Biosciences,19600.0,,2019-2020,2nd,"No health insurance. 
+9 hrs/sem required for employment
+Covers own fees",-90.6774535,35.84149650000001,False,1,19600.0,19600.0
+1569,1711,Tel Aviv University ,Cell Biology and Biotechnology ,40000.0,,2018-2019,5th,,34.80321,32.113591,False,1,40000.0,40000.0
+1573,1715,Weill Cornell Graduate School of Medical Sciences,Pharmacology,41000.0,,2019-2020,3rd,,-73.9543365,40.764303000000005,False,3,114966.0,38322.0
+1574,1716,Thomas Jefferson University,"Pathology, Anatomy, & Cell Biology",29500.0,1.22,2019-2020,6th and up,"health insurance, tuition, and fees are covered.",-75.157348,39.94975150000001,False,8,233924.0,29240.5
+1619,1764,Icahn School of Medicine at Mount Sinai,Immunology,40000.0,,2019-2020,,,-73.9533255,40.7895415,False,4,146000.0,36500.0
+1624,1769,Saint Jude,,38200.0,,2019-2020,1st,,125.604083,7.070938000000001,False,1,38200.0,38200.0
+1651,1799,,,25700.0,,2018-2019,,,,,False,1,25700.0,25700.0
+1653,1801,University of Minnesota,"Biochemistry, Molecular Biology, and Biophysics",30879.0,,2019-2020,2nd,,-93.23994275,44.974447,False,1,30879.0,30879.0
+1658,1807,The American College of Financial Services,,30000.0,,2018-2019,4th,,-75.32771199999998,40.018608,False,1,30000.0,30000.0
+1662,1813,,Sociology,18000.0,,2018-2019,1st,,,,False,1,18000.0,18000.0
+1665,1816,,,19500.0,,2018-2019,3rd,,,,False,1,19500.0,19500.0
+1681,1832,University of Montana (UM),"Organismal Biology, Ecology, and Evolution",18000.0,0.82,2018-2019,6th and up,,-113.97714599999999,46.856083,False,5,99696.0,19939.2
+1682,1833,,,39000.0,,2018-2019,1st,,,,False,1,39000.0,39000.0
+1728,1882,Worcester Polytechnic Institute (WPI),Bioinformatics,32700.0,1.45,2019-2020,1st,Fellowship given during enrollment,-71.80844,42.274151,False,8,228420.0,28552.5
+1739,1893,,,22000.0,,2018-2019,,,,,False,1,22000.0,22000.0
+1748,1905,University of Southern Mississippi (USM),English,12000.0,0.56,2019-2020,1st,,-89.33788100000001,31.331031,False,5,85210.0,17042.0
+1753,1910,Indian School of Business,Marketing,18000.0,,2018-2019,1st,,78.339999,17.435316,False,1,18000.0,18000.0
+1762,1919,University of Memphis,Communication Sciences and Disorders,16800.0,0.75,2019-2020,5th,,-89.93734,35.1193385,False,11,189900.0,17263.636363636364
+1765,1922,,,27250.0,,2018-2019,,,,,False,1,27250.0,27250.0
+1786,1945,,,40000.0,,2018-2019,,,,,False,1,40000.0,40000.0
+1811,1973,University of Arkansas for Medical Sciences,GPIBS,24900.0,1.19,2018-2019,1st,fee for TB test,-92.320431,34.7494735,False,12,293467.0,24455.583333333332
+1818,1980,,,28800.0,,2018-2019,2nd,,,,False,1,28800.0,28800.0
+1824,1986,,,30000.0,,2018-2019,,,,,False,1,30000.0,30000.0
+1833,1995,Tuskegee University,Food & Nutrition,11000.0,,2018-2019,2nd,,-85.707471,32.430195,False,1,11000.0,11000.0
+1834,1997,University of New Hampshire (UNH),Natural Resources,27760.0,1.17,2018-2019,1st,,-70.93239750000002,43.1359435,False,9,201593.0,22399.222222222223
+1845,2009,,,12500.0,,2018-2019,,,,,False,1,12500.0,12500.0
+1848,2012,Medical College of Wisconsin,Public and Community Health,33600.0,1.56,2019-2020,2nd,,-88.02200199999999,43.04338,False,5,152812.0,30562.4
+1852,2017,Northern Illinois University (NIU),Psychology,12605.0,0.57,2019-2020,3rd,"University President recently mandated minimum Graduate student stipend be $1,500 a month (pre-tax). Student fees have doubled since 2015. University-offered healthcare also has gone up 30%, and the maximum out of pocket is $7,150. Students in STEM programs earn 30-60% more than Psychology students, relatively higher than the national average of STEM doctoral students earning 20-30% more than social science students.",-78.8187,42.9547,False,7,91110.0,13015.714285714286
+1867,2033,Mayo Medical School,Molecular Pharmacology and Experimental Therpuetics,32775.0,1.45,2018-2019,4th,,-9.1167,53.75,False,1,32775.0,32775.0
+1887,2054,Test University,Test,26000.0,,2018-2019,1st,,-97.743,30.2938,False,1,26000.0,26000.0
+1888,2055,Ball State University (BSU),Environmental Science,17000.0,0.85,2018-2019,,,-85.408396,40.202521000000004,False,2,32133.0,16066.5
+1909,2080,West Texas A&M University,Agriculture ,18000.0,,2018-2019,2nd,,-101.914826,34.9837135,False,1,18000.0,18000.0
+1910,2081,University of South Alabama (USA),Basic medical sciences,26890.0,1.17,2017-2018,2nd,110 per semester.,-88.17788175000003,30.6962785,False,3,62990.0,20996.666666666668
+1912,2083,"University of Missouri , Kansas City (UMKC)",Psychology,9000.0,0.43,2019-2020,2nd,,-94.57629,39.033574,False,3,38800.0,12933.333333333334
+1920,2092,University of Rhode Island (URI),Mechanical Engineering ,24600.0,1.08,2018-2019,2nd,,-71.52618749999998,41.482649,False,4,64485.0,16121.25
+1925,2099,University of Oklahoma Health Sciences Center,Biomedical Sciences,24000.0,1.19,2015-2016,4th,,-97.15661300000001,49.903451000000004,False,5,128000.0,25600.0
+1958,2136,Drexel University,Engineering,26500.0,,2019-2020,1st,,-75.18896099999999,39.955879,False,1,26500.0,26500.0
+1962,2140,,,35000.0,,2018-2019,,,,,False,1,35000.0,35000.0
+1981,2161,,Physics,24000.0,,2018-2019,1st,,,,False,1,24000.0,24000.0
+1986,2166,Illinois Institute of Technology (IIT),Biomedical Engineering,27000.0,1.11,2018-2019,,,-87.62739599999999,41.834840500000006,False,4,67300.0,16825.0
+1989,2170,University of Cambridge (Gates Cambridge Scholarship),Clinical Medicine,22000.0,,2019-2020,1st,,0.117658,52.202032,False,1,22000.0,22000.0
+2006,2187,,,15000.0,,2018-2019,,,,,False,1,15000.0,15000.0
+2014,2198,The University of Alabama,"English, CRES",14360.0,,2018-2019,1st,,-87.546874,33.211341000000004,False,1,14360.0,14360.0
+2050,2240,,,42700.0,,2018-2019,,,,,False,1,42700.0,42700.0
+2055,2247,,,26450.0,,2018-2019,,,,,False,1,26450.0,26450.0
+2058,2250,,chemistry,27600.0,,2018-2019,,,,,False,1,27600.0,27600.0
+2059,2251,,,27600.0,,2018-2019,,,,,False,1,27600.0,27600.0
+2071,2264,Clarkson University,Chemistry/ PhD,24650.0,1.2,2019-2020,2nd,,-74.9988135,44.663449,False,3,75150.0,25050.0
+2096,2289,,Physics,38662.0,,2019-2020,1st,,,,False,1,38662.0,38662.0
+2130,2331,Mayo Clinic Graduate School,,32569.0,,2018-2019,1st,Stipends for all students guaranteed for five years and paid by graduate school and not PI's grants.,101.785511,2.928986,False,1,32569.0,32569.0
+2131,2332,,,23980.0,,2018-2019,,,,,False,1,23980.0,23980.0
+2132,2333,,,23980.0,,2018-2019,,,,,False,1,23980.0,23980.0
+2134,2335,,,23000.0,,2018-2019,1st,,,,False,1,23000.0,23000.0
+2137,2338,Purdue University,Industrial and Physical Pharmacy,26500.0,,2018-2019,,,-86.929836,40.416012,False,1,26500.0,26500.0
+2149,2350,,,47000.0,,2018-2019,,,,,False,1,47000.0,47000.0
+2156,2359,,,32750.0,,2018-2019,,,,,False,1,32750.0,32750.0
+2166,2370,FAMU,COPPS,16183.0,,2018-2019,,,-84.2838155,30.418857,False,1,16183.0,16183.0
+2169,2373,Clark Atlanta University,Chemistry ,17100.0,0.73,2019-2020,1st,,-84.41135249999998,33.749955,False,1,17100.0,17100.0
+2189,2396,Florida Institute of Technology,Bces,11560.0,0.55,2018-2019,,,-80.6238055,28.065064000000003,False,2,31560.0,15780.0
+2196,2404,"University of Texas , Arlington (UTA) |  University of Texas at Arlington ",Mechanical Engineering/PhD,16500.0,0.76,2019-2020,2nd,"Insurance of 2500 USD (Fall - 950, Spring+Summer - 1450), but you can always opt for outside insurance (worth 300-600 USD per year)",-97.1149705,32.729879,False,14,298200.0,21300.0
+2200,2409,,,39000.0,,2018-2019,4th,,,,False,1,39000.0,39000.0
+2206,2416,Eastman School of Music | Eastman School of Music (University of Rochester),Musicology,17831.0,,2018-2019,3rd,"My stipend is higher than many in the department as I have an additional fellowship paid by the university on top of my departmental stipend. I also have health insurance included, which most students do not have (an additional $2448 a year if purchasing from the school). ",-77.601606875,43.157602125,False,2,31391.0,15695.5
+2239,2457,,chemistry,25000.0,,2018-2019,,,,,False,1,25000.0,25000.0
+2256,2475,Pacifica Graduate Institute,Psychology,24819.0,0.95,2015-2016,4th,,-119.5810135,34.431537500000005,False,1,24819.0,24819.0
+2289,2513,,,18000.0,,2018-2019,1st,,,,False,1,18000.0,18000.0
+2301,2529,,,25000.0,,2018-2019,5th,,,,False,1,25000.0,25000.0
+2321,2553,,,22400.0,,2018-2019,1st,,,,False,1,22400.0,22400.0
+2328,2560,UF,,25000.0,,2018-2019,,,55.96666999999999,54.73333,False,1,25000.0,25000.0
+2335,2568,University of Kansas Medical Center (KUMC),"Microbiology, Molecular Genetics & Immunology",27000.0,,2018-2019,1st,+ full tuition waiver,-94.60920562500002,39.056065,False,3,71000.0,23666.666666666668
+2346,2579,Walden University,Business,12000.0,0.52,2018-2019,3rd,,-81.46637700000001,28.424684999999997,False,2,46000.0,23000.0
+2364,2599,incheon  national university,Electronics,12000.0,,2018-2019,1st,,126.633361,37.375476,False,1,12000.0,12000.0
+2369,2604,University of Toronto Rotman School of Management,Management,28500.0,,2018-2019,1st,Value in Canadian dollars. Scholarships are not taxed by the Province of Ontario or the Canadian federal government.,-79.398488,43.6649985,False,1,28500.0,28500.0
+2372,2607,,,23300.0,,2018-2019,,,,,False,1,23300.0,23300.0
+2433,2672,University of North Dakota (ND),English,17900.0,0.93,2018-2019,1st,,-97.07060899999999,47.921819,False,3,51431.0,17143.666666666668
+2503,2744,,French ,20000.0,,2019-2020,1st,,,,False,1,20000.0,20000.0
+2516,2760,,Anthropology ,25500.0,,2018-2019,1st,Pay $700/year for public transport pass,,,False,1,25500.0,25500.0
+2606,2859,University of Guelph,Environmental Sciences,13411.0,,2018-2019,2nd,"Canadian University, however all values are in USD",-80.2254645,43.532261,False,2,32111.0,16055.5
+2608,2862,Villanova,Theology and Religious Studies,24600.0,,2018-2019,1st,,-75.3491,40.0373,False,1,24600.0,24600.0
+2628,2882,,biology,32000.0,,2018-2019,,,,,False,1,32000.0,32000.0
+2631,2885,,,27000.0,,2018-2019,,,,,False,1,27000.0,27000.0
+2635,2889,University of Victoria,Physics and Astronomy,20000.0,,2018-2019,1st,Canadian dollars. Approximately calculated.,-123.31065900000002,48.4647795,False,3,58683.0,19561.0
+2638,2892,"University of Texas Health Science Center , Houston",GSBS,32000.0,1.46,2017-2018,5th,,-95.403086,29.703271,False,8,221500.0,27687.5
+2660,2915,University of New Brunswick,Department of Electrical & Computer Engineering ,12000.0,,2019-2020,1st,All payment in CAD,-66.085871,45.30581,False,1,12000.0,12000.0
+2666,2922,Loma Linda University,Earth and Biological Sciences,14800.0,,2018-2019,2nd,,-117.2619795,34.052225,False,3,62300.0,20766.666666666668
+2680,2936,,,29268.0,,2018-2019,,,,,False,1,29268.0,29268.0
+2683,2939,Indiana University of Pennsylvania (IUP),Philanthropic Studies,15000.0,0.72,2018-2019,1st,,-79.159598,40.617052,False,2,25000.0,12500.0
+2706,2963,,,26000.0,,2018-2019,,,,,False,1,26000.0,26000.0
+2712,2969,"Embry,Riddle Aeronautical University",Engineering Physics,20000.0,,2018-2019,5th,,-81.049095,29.18863,False,4,65000.0,16250.0
+2720,2980,University of California San Diego,Electrical and Computer Engineering,27714.0,,2019-2020,1st,"The offer is as follows: 
+
+2209/month for the first 10 months, as part of a fellowship. 
+2611/month subsequently as a graduate student researcher. 
+
+Tuition, fees, health insurance all covered otherwise. The gross pay listed above was modified to reflect a 9 month (rather than 10 month) salary. ",-122.305757,37.9004575,False,2,54214.0,27107.0
+2728,2988,,Nutrition,25000.0,,2018-2019,1st,,,,False,1,25000.0,25000.0
+2764,3025,,Speech language and hearing PhD in communication sciences and disorders ,27000.0,,2017-2018,5th,Small discount on tuition but have to be enrolled full time for stipend ,,,False,1,27000.0,27000.0
+2771,3034,,College of Health Solutions,17000.0,,2018-2019,3rd,Includes tuition and health insurance ,,,False,1,17000.0,17000.0
+2803,3068,,history,20000.0,,2018-2019,,,,,False,1,20000.0,20000.0
+2835,3102,cu boulder,mechanical,29000.0,,2018-2019,1st,,-105.24245400000001,40.009777,False,1,29000.0,29000.0
+2842,3109,New Mexico State University (NMSU),MAE,8092.0,0.39,2018-2019,2nd,,-106.74474599999999,32.278546,False,11,211250.0,19204.545454545456
+2859,3127,INSEAD,Management,42555.0,,2018-2019,1st,"For AY 2018, annual stipend covers 35,200  for Singapore-based students and 32,000  for Fontainebleau-based students, which includes accommodation and living expenses. Research and conference budget support is provided in addition to the annual stipend, averaging SGD 4,080 or approx. 2,500  annually for Singapore students, and 2,000  for Fontainebleau students, along with a comprehensive health insurance coverage that covers student, spouse and children.*
+
+Research or teaching assistantships are not required in exchange for the fellowship, since assistantships are part of the curriculum and are already included in the funding. ",103.7865595,1.2997254999999999,False,4,123388.0,30847.0
+2891,3164,,,16000.0,,2018-2019,1st,,,,False,1,16000.0,16000.0
+2914,3190,,,36000.0,,2018-2019,,,,,False,1,36000.0,36000.0
+2916,3192,,,33000.0,,2018-2019,,,,,False,1,33000.0,33000.0
+2921,3197,North Carolina A&T State University (NC A&T),Civil construction environmental engineering ,24341.0,,2018-2019,1st,,-79.7725715,36.0750455,False,2,32341.0,16170.5
+2951,3228,"CUNY , John Jay College",Criminal Justice ,26500.0,0.89,2018-2019,3rd,,-73.989558,40.768603000000006,False,2,52500.0,26250.0
+2954,3231,,,26025.0,,2018-2019,1st,,,,False,1,26025.0,26025.0
+2956,3233,,,27500.0,,2018-2019,,,,,False,1,27500.0,27500.0
+2969,3246, Clark University,Psychology ,18723.0,,2018-2019,2nd,$100 initial graduate administration fee; $15/semester graduate activity fee,-71.823174,42.2511345,False,2,35908.0,17954.0
+2983,3260,Sydney,Psychology/PhD,18070.0,,2018-2019,,USD,151.21,-33.868,False,1,18070.0,18070.0
+3005,3284,DePaul University (DPU),Psychology,19000.0,0.78,2018-2019,3rd,,-87.657696,41.923916,False,2,38500.0,19250.0
+3021,3300,"Binghamton University , SUNY",Psychology,18800.0,0.91,2018-2019,4th,Some summer funding possible but not guaranteed,-75.969123,42.090647499999996,False,9,179200.0,19911.11111111111
+3024,3304,Lamar University,Chemical Engineering,15900.0,0.78,2018-2019,1st,,-94.0750065,30.042003,False,2,32700.0,16350.0
+3058,3341,St. Jude Children's Research Hospital,Biomedical Sciences,37050.0,,2019-2020,1st,https://www.stjude.org/education-training/st-jude-graduate-school-of-biomedical-sciences/benefits.html,-90.043289,35.15324200000001,False,1,37050.0,37050.0
+3086,3372,Bentley University,Accounting,30000.0,,2018-2019,1st,,-71.220612,42.387526,False,1,30000.0,30000.0
+3136,3428,,,25600.0,,2018-2019,,,,,False,1,25600.0,25600.0
+3182,3476,Princeton Theological Seminary (PTS),History,30000.0,1.18,2019-2020,1st,$25K of base stipend and $5K from a presidential scholarship. Tuition paid. Full health insurance for student.,-74.6639065,40.3441735,False,2,46000.0,23000.0
+3212,3507,,,25000.0,,2018-2019,,,,,False,1,25000.0,25000.0
+3264,3564,,,32000.0,,2018-2019,,,,,False,1,32000.0,32000.0
+3269,3569,The University of Manchester,Economics,26820.0,,2018-2019,2nd,,-2.2355155,53.464432499999994,False,1,26820.0,26820.0
+3284,3586,,Biology,38000.0,,2018-2019,1st,,,,False,1,38000.0,38000.0
+3293,3596,,,23760.0,,2018-2019,,,,,False,1,23760.0,23760.0
+3365,3672,Cornell,Sociology,32953.0,,2019-2020,1st,"27,218 for academic year [5 years support, although notes that ""typically"" the program is able to provide funding beyond the 5th year if needed]
++ 5,735 for 4 summers
+
+2 years SAGE fellowship and 3 years TA-ship.
+
+",2.07111,41.355,False,2,67204.0,33602.0
+3398,3709,,,34000.0,,2018-2019,,,,,False,1,34000.0,34000.0
+3412,3724,,,17000.0,,2018-2019,,,,,False,1,17000.0,17000.0
+3429,3742,,Physics,30000.0,,2018-2019,,,,,False,1,30000.0,30000.0
+3430,3744,Rush University,Integrated Biomedical Sciences,30000.0,1.24,2018-2019,1st,,-87.669244375,41.87422221875,False,1,30000.0,30000.0
+3446,3761,,,18000.0,,2018-2019,,,,,False,1,18000.0,18000.0
+3471,3786,,,22500.0,,2018-2019,,,,,False,1,22500.0,22500.0
+3475,3790,Indiana State University (ISU),Economics,22800.0,1.16,2019-2020,1st,,-86.533889,39.178806,False,1,22800.0,22800.0
+3477,3792,,,30000.0,,2018-2019,,,,,False,1,30000.0,30000.0
+3488,3804,The University of Western Australia,School of Molecular Sciences,30000.0,,2019-2020,3rd,Recently increased their stipend from $29k to $30k (Jan 2019).,115.817898,-31.980069,False,1,30000.0,30000.0
+3499,3815,South Dakota State University (SDSU),Biology and Microbiology (PhD),42575.0,2.26,2018-2019,3rd,"The fees are for 30 credit hours (12 fall, 12 spring and 6 summer). It's ~$45 per credit hour.",-96.78707,44.319045,False,4,108425.0,27106.25
+3514,3830,,,31000.0,,2018-2019,1st,,,,False,1,31000.0,31000.0
+3521,3838,Noetheastern,Science,35000.0,,2018-2019,1st,,-18.1,65.68333,False,1,35000.0,35000.0
+3531,3849,,,30500.0,,2018-2019,1st,,,,False,1,30500.0,30500.0
+3551,3871,,,18400.0,,2018-2019,1st,,,,False,1,18400.0,18400.0
+3569,3891,"National university of ireland galway | National University of Ireland, Galway",Microbiology,18000.0,,2018-2019,1st,,-9.061357000000001,53.277882375,False,3,42021.0,14007.0
+3576,3898,,,20000.0,,2018-2019,,,,,False,1,20000.0,20000.0
+3585,3909,Chapman University,Computational and Data Sciences,23100.0,,2018-2019,2nd,,-117.85198500000001,33.7929255,False,1,23100.0,23100.0
+3588,3912,,Comparative Literature,32125.0,,2018-2019,1st,,,,False,1,32125.0,32125.0
+3590,3914,Villanova University,Philosophy,25800.0,,2018-2019,2nd,1k is for health insurance subsidy,-75.339864,40.036934,False,1,25800.0,25800.0
+3615,3939,Albany Medical College,,28000.0,1.23,2018-2019,1st,,-73.777159,42.653321999999996,False,4,106000.0,26500.0
+3628,3953,NANYANG TECHNOLOGICAL UNIVERSITY | Nanyang Technological University,PhD EEE,29562.0,,2018-2019,3rd,,103.681792,1.347227,False,2,51162.0,25581.0
+3630,3955,University of Melbourne | university of melbourne,Department of Psychiatry,30900.0,,2018-2019,1st,AUD,144.9628925,-37.79826900000001,False,3,84800.0,28266.666666666668
+3651,3978,"Louisiana State University School of Medicine , Shreveport",Microbiology and Immunology,26000.0,1.2,2018-2019,,,-93.7652,32.5222,False,5,114200.0,22840.0
+3667,3995,,,18000.0,,2018-2019,4th,,,,False,1,18000.0,18000.0
+3713,4044,,,24000.0,,2018-2019,1st,,,,False,1,24000.0,24000.0
+3721,4054,"University of North Carolina , Charlotte (UNCC)",Nanoscale Science ,21000.0,0.92,2018-2019,1st,,-80.73279699999999,35.3049605,False,8,134330.0,16791.25
+3727,4061,university of  Maryland  | University of Maryland,biology,21000.0,,2018-2019,2nd,,-76.94807275,38.98640225,False,2,46000.0,23000.0
+3767,4112,University of Notre Dame,Department of Computer Science and Engineering,32500.0,,2018-2019,1st,,-86.23826225,41.7008115,False,2,55500.0,27750.0
+3813,4167,,,18400.0,,2018-2019,,,,,False,1,18400.0,18400.0
+3820,4174,The University of North Texas,Chemistry,18340.0,,2018-2019,2nd,,-97.1148,32.7865,False,1,18340.0,18340.0
+3825,4180,University of the Sciences in Philadelphia,Biochemistry,22731.0,0.94,2018-2019,3rd,Health Insurance is out of pocket,-75.2078135,39.946221,False,4,84831.0,21207.75
+3833,4189,Yale University,Chemistry,36000.0,,2018-2019,5th,,-72.92584699999998,41.3113795,False,2,64550.0,32275.0
+3839,4196,Penn State College of Medicine,Biomedical Sciences,32000.0,,2018-2019,1st,,-76.67621199999999,40.264376,False,1,32000.0,32000.0
+3848,4205,,,37000.0,,2018-2019,,,,,False,1,37000.0,37000.0
+3849,4206,,Mechanical Engineering,37500.0,,2018-2019,1st,Fellowship plus 1/4 time Grad Assistant Position,,,False,1,37500.0,37500.0
+3857,4214,"Griffith University, Australia ",MECHANICAL,28000.0,,2018-2019,1st,IPRS stipend of AUD 28000 per year. Tuition fee waiver for 4 years. Full Health Insurance covered. Top up research funding of $6000 per year.   ,153.05937350000002,-27.549348,False,1,28000.0,28000.0
+3858,4215,,,31100.0,,2018-2019,,,,,False,1,31100.0,31100.0
+3859,4216,University of Georgia | University of Georgia ,"13,590",12090.0,,2018-2019,,,-83.374647,33.954395000000005,False,3,43870.0,14623.333333333334
+3872,4230,,math,26300.0,,2018-2019,,,,,False,1,26300.0,26300.0
+3877,4235,,,31635.0,,2018-2019,,,,,False,1,31635.0,31635.0
+3896,4255,Missouri University of Science & Technology,materials science,21500.0,,2016-2017,1st,,-91.773536,37.95518800000001,False,2,43000.0,21500.0
+3908,4268,College of William and Mary (W&M),Physics,26000.0,,2017-2018,,,-112.03,46.59,False,6,123752.0,20625.333333333332
+3918,4279,,,26300.0,,2018-2019,,,,,False,1,26300.0,26300.0
+3939,4303,johns hopkins | johns hopkins ,Economics,29000.0,,2018-2019,1st,,50.136269,26.310290999999996,False,2,52000.0,26000.0
+3943,4307,university missouri ,Mathematics,20000.0,,2018-2019,1st,,-90.5041245,38.645653,False,1,20000.0,20000.0
+3945,4309,Dublin City university ,Chemistry ,16000.0,,2018-2019,1st,16000 Euro,-6.258126,53.385746999999995,False,1,16000.0,16000.0
+3964,4332,,Biostatistics ,22000.0,,2016-2017,1st,,,,False,1,22000.0,22000.0
+3965,4334,,,22000.0,,2016-2017,1st,,,,False,1,22000.0,22000.0
+3977,4347,,,29500.0,,2016-2017,,,,,False,1,29500.0,29500.0
+3987,4357,university of south carolina,biological sciences,20858.0,,2017-2018,1st,,-81.026572,33.9968505,False,1,20858.0,20858.0
+4028,4404,University of Waterloo,Chemistry,16500.0,,2016-2017,1st,,-80.54100550000003,43.4705625,False,1,16500.0,16500.0
+4035,4411,,,27000.0,,2016-2017,,,,,False,1,27000.0,27000.0
+4039,4415,,,14000.0,,2016-2017,,,,,False,1,14000.0,14000.0
+4061,4438,,,22000.0,,2017-2018,,,,,False,1,22000.0,22000.0
+4068,4445,,,48000.0,,2016-2017,,,,,False,1,48000.0,48000.0
+4071,4449,Massachusetts College of Pharmacy and Health Sciences,PHARMACEUTICAL SCIENCES,21000.0,0.73,2017-2018,2nd,no health insurance,-71.463977,42.996302,False,2,44750.0,22375.0
+4087,4468,,21000,19000.0,,2017-2018,1st,,,,False,1,19000.0,19000.0
+4122,4504,,,30000.0,,2016-2017,,,,,False,1,30000.0,30000.0
+4134,4518,Polytechnic Montreal,Computer Engineering,16500.0,,2017-2018,1st,,-73.554,45.5088,False,2,32500.0,16250.0
+4149,4535,,,30200.0,,2017-2018,1st,,,,False,1,30200.0,30200.0
+4151,4538,Polytechnic Institute of New York University,Mechanical Engineering/PhD,30000.0,1.01,2017-2018,1st,,-76.1358,43.0404,False,4,123600.0,30900.0
+4218,4606,"Open University,KEMRI Wellcome Trust Research Programme",Biosciences,16040.0,,2016-2017,2nd,,-0.7112149999999999,52.024374,False,1,16040.0,16040.0
+4237,4626,,,18000.0,,2016-2017,,,,,False,1,18000.0,18000.0
+4268,4659,University of Manchester,school of medical sciences ,16899.0,,2016-2017,3rd,,-2.2286740000000003,53.460354,False,1,16899.0,16899.0
+4281,4672,The Francis Crick Institute (UK),,31165.0,,2016-2017,3rd,"PhD student stipend 22000 per year/4 yr at the Francis Crick Institute, London, UK. Non taxed, take home 100%",-0.1283755,51.531721999999995,False,1,31165.0,31165.0
+4282,4673,indiana,philanthropy,15000.0,,2017-2018,,,-86.28460760648821,39.9184076479,False,1,15000.0,15000.0
+4295,4687,,,20250.0,,2017-2018,5th,,,,False,1,20250.0,20250.0
+4298,4690,,Agriculture and Consumer Economics,17000.0,,2017-2018,1st,,,,False,1,17000.0,17000.0
+4313,4707,NYU,steinhadt,26000.0,,2017-2018,,,-73.995956,40.729364,False,1,26000.0,26000.0
+4333,4727,,Biology ,30000.0,,2016-2017,1st,,,,False,1,30000.0,30000.0
+4339,4734,,,8784.0,,2016-2017,,,,,False,1,8784.0,8784.0
+4355,4752,"University of Colorado, Boulder",Applied Mathematics,16000.0,,2017-2018,3rd,,-105.2676765,40.00704500000001,False,1,16000.0,16000.0
+4357,4754,,,28000.0,,2016-2017,1st,,,,False,1,28000.0,28000.0
+4375,4772,,,28200.0,,2016-2017,,,,,False,1,28200.0,28200.0
+4419,4818,Claremont Graduate University (CGU),English,20000.0,0.77,2016-2017,1st,,-117.7136665,34.103158,False,2,40000.0,20000.0
+4459,4861,Max Planck Institute for Human Cognitive & Brain Sciences,,21944.0,,2017-2018,1st,There's bonus payments in addition to the monthly salary at least once a year.,4.506390000000001,47.46333,False,1,21944.0,21944.0
+4461,4863,,,21752.0,,2016-2017,,,,,False,1,21752.0,21752.0
+4463,4865,,Microbiology,16000.0,,2016-2017,,,,,False,1,16000.0,16000.0
+4464,4866,,,16000.0,,2016-2017,,,,,False,1,16000.0,16000.0
+4470,4873,Carleton University ,Earth sciences,18000.0,,2016-2017,3rd,,-75.6974505,45.3836645,False,1,18000.0,18000.0
+4479,4883,,,19305.0,,2016-2017,,,,,False,1,19305.0,19305.0
+4493,4899,University of Western Australia,Ecology,38000.0,,2017-2018,1st,"$29,000 is my stipend, $9,000 on top of that is what I earn teaching and working a weekend job",115.81350400000001,-31.977031,False,1,38000.0,38000.0
+4494,4901,,Psychology,20000.0,,2016-2017,3rd,,,,False,1,20000.0,20000.0
+4513,4928,Flinders University,Science and Engineering,26000.0,,2016-2017,1st,,138.5724725,-35.023041,False,1,26000.0,26000.0
+4532,4949,,,36000.0,,2016-2017,,,,,False,1,36000.0,36000.0
+4540,4957,,,22000.0,,2016-2017,,,,,False,1,22000.0,22000.0
+4547,4964,National University of Singapore,,30000.0,,2013-2014,1st,,103.81797399999999,1.319392,False,1,30000.0,30000.0
+4557,4974,,,47844.0,,2017-2018,1st,,,,False,1,47844.0,47844.0
+4566,4983,,,21000.0,,2016-2017,,,,,False,1,21000.0,21000.0
+4579,4996,University of Puerto Rico,Environmental Health ,9111.0,,2016-2017,3rd,,-111.996697,33.412107250000005,False,2,23611.0,11805.5
+4592,5011,,Chemistry,28000.0,,2017-2018,5th,,,,False,1,28000.0,28000.0
+4601,5021,University of Regina,Biology,9000.0,,2016-2017,4th,,-104.588981,50.418388,False,1,9000.0,9000.0
+4611,5032,University of Tuebingen,Institute of Medical Psychology,31000.0,,2017-2018,6th and up,,9.0477205,48.530942,False,1,31000.0,31000.0
+4613,5034,University of Gottingen,Psychology,29900.0,,2017-2018,2nd,,9.937527000000001,51.5379755,False,2,39647.0,19823.5
+4655,5079,KTH Royal Institute of Technology,Theoretical computational biophysics,31300.0,,2015-2016,5th,,18.07222775,59.346441500000005,False,1,31300.0,31300.0
+4668,5097,Creighton University (CU),Biomedical Sciences,26481.0,1.31,2016-2017,5th,,-95.93302,41.254271,False,1,26481.0,26481.0
+4674,5103,,,29000.0,,2016-2017,,,,,False,1,29000.0,29000.0
+4708,5137,Bryn Mawr College (BMC),Physics,28292.0,1.17,2016-2017,,,-75.313721,40.02629,False,1,28292.0,28292.0
+4712,5141,University of Maryland College Park,Physics,28000.0,,2016-2017,,,-76.94148,38.995495,False,1,28000.0,28000.0
+4721,5150,,,13348.0,,2016-2017,,,,,False,1,13348.0,13348.0
+4734,5166,Cornell University,Romance Studies,32000.0,,2017-2018,,,-76.48332950000001,42.4473635,False,1,32000.0,32000.0
+4735,5167,"Cedars,Sinai Medical Center",Biomedical Sciences,41000.0,,2017-2018,1st,,-118.37006699999999,34.063319,False,3,128000.0,42666.666666666664
+4736,5168,Boston University,Anthropology,22660.0,,2017-2018,1st,"It's for 8 months, not 9. Full tuition waiver and fees, insurance included.",-71.10634350000001,42.350691999999995,False,2,44160.0,22080.0
+4794,5228,,,24116.0,,2016-2017,,,,,False,1,24116.0,24116.0
+4808,5243,Morgan State University (MSU),Mathematics,14600.0,0.57,2017-2018,3rd,,-76.58587800000001,39.343188,False,2,32600.0,16300.0
+4832,5268,,,30000.0,,2016-2017,,,,,False,1,30000.0,30000.0
+4847,5285,Vanderbilt,IGP,30500.0,,2017-2018,1st,,-73.9418435,41.796940000000006,False,1,30500.0,30500.0
+4849,5287,Auburn University,Biological Sciences,20000.0,,2017-2018,2nd,"about $1000 per year for health insurance, fees",-85.486097,32.601116999999995,False,1,20000.0,20000.0
+4882,5329,,,25486.0,,2016-2017,1st,,,,False,1,25486.0,25486.0
+4886,5334,wyoming,materials,24000.0,,2017-2018,,,-107.53985754110901,43.5444588856,False,1,24000.0,24000.0
+4887,5335,,,35000.0,,2016-2017,,,,,False,1,35000.0,35000.0
+4897,5345,,,21000.0,,2016-2017,,,,,False,1,21000.0,21000.0
+4899,5347,Eastern virginia medical school | Eastern Virginia Medical School,biomedical sciences,29705.0,,2016-2017,1st,,-76.3014135,36.861366,False,2,56205.0,28102.5
+4906,5354,,,23000.0,,2016-2017,,,,,False,1,23000.0,23000.0
+4923,5373,,,34000.0,,2016-2017,1st,,,,False,1,34000.0,34000.0
+4926,5377,,,15000.0,,2016-2017,,,,,False,1,15000.0,15000.0
+4966,5418,,Psychology,16000.0,,2016-2017,1st,,,,False,1,16000.0,16000.0
+4993,5448,university college of engineering ramanathapuram,civil engineering,18000.0,,2017-2018,1st,,73.855986,18.529718,False,1,18000.0,18000.0
+5003,5458,the University of Adelaide,Department of Biology,20100.0,,2017-2018,1st,,138.60491100000002,-34.9202175,False,1,20100.0,20100.0
+5009,5464,Hampton University (HU),APS,22900.0,0.86,2017-2018,3rd,,-7.0,37.66667,False,3,63700.0,21233.333333333332
+5018,5474,,,30730.0,,2016-2017,,,,,False,1,30730.0,30730.0
+5025,5484,University of Bristol,FARSCOPE CDT,14553.0,,2017-2018,1st,,-2.60395875,51.457143125,False,1,14553.0,14553.0
+5046,5505,,,15500.0,,2016-2017,,,,,False,1,15500.0,15500.0
+5050,5509,,business,30000.0,,2017-2018,,,,,False,1,30000.0,30000.0
+5051,5510,,,30000.0,,2017-2018,,,,,False,1,30000.0,30000.0
+5057,5519,khalifa university ,petroleum,30000.0,,2016-2017,1st,,54.394438,24.447017000000002,False,1,30000.0,30000.0
+5061,5523,Florida A&M University,Pharmaceutical science,15900.0,,2017-2018,1st,,-84.28779899999999,30.42585,False,1,15900.0,15900.0
+5070,5532,,Biological sciences,25000.0,,2016-2017,1st,,,,False,1,25000.0,25000.0
+5078,5541,Capella University,criminal justice ,30000.0,1.31,2017-2018,1st,,-117.80698999999998,33.640916499999996,False,1,30000.0,30000.0
+5093,5559,,,19800.0,,2016-2017,,,,,False,1,19800.0,19800.0
+5101,5567,"University of Massachusetts , Dartmouth (UMD)",Physics,14600.0,0.61,2017-2018,3rd,"Have to pay for own health insurance, totaling $4000.",-71.00404300000001,41.628690999999996,False,1,14600.0,14600.0
+5104,5570,Augusta University,Biomedical,25000.0,,2017-2018,1st,"Paid 25000 yearly basis only condition is you must have identified a research supervisor who can accommodate you in his/her research lab, City is very very cheap, Two health insurances included in the package and you only need to pay 25 Tuition and all other fees which are round abut 2000  per year, Pretty Cool!",-81.990012,33.470976,False,1,25000.0,25000.0
+5106,5572,Gallaudet University,Educational Neuroscience,21000.0,0.68,2017-2018,3rd,,-76.993437,38.907143,False,3,63000.0,21000.0
+5110,5576,"Alfred University , New York State College of Ceramics",Engineering,17000.0,0.83,2016-2017,,,-77.787977,42.253894,False,2,34500.0,17250.0
+5121,5587,Clemson University,Biochemistry,18000.0,,2013-2014,2nd,,-82.837137,34.678302,False,1,18000.0,18000.0
+5164,5635,,,16750.0,,2016-2017,,,,,False,1,16750.0,16750.0
+5166,5639,"Rutgers University , Camden",Childhood Studies,25969.0,,2016-2017,1st,,-75.121765,39.948536,False,1,25969.0,25969.0
+5167,5640,,,28000.0,,2016-2017,,,,,False,1,28000.0,28000.0
+5186,5662,West Virginia university,Business,20600.0,,2016-2017,1st,,-79.964403,39.640968,False,1,20600.0,20600.0
+5198,5675,"University of Colorado , Colorado Springs",Physics,20000.0,0.95,2017-2018,,,-104.79823950000001,38.892101000000004,False,1,20000.0,20000.0
+5220,5700,"CUNY , Baruch College",,36000.0,1.21,2016-2017,2nd,,-73.98406,40.740396999999994,False,1,36000.0,36000.0
+5224,5704,,physics,18700.0,,2016-2017,1st,,,,False,1,18700.0,18700.0
+5225,5705,,,18700.0,,2016-2017,1st,,,,False,1,18700.0,18700.0
+5236,5717,Sofia University,social work,22400.0,0.9,2013-2014,4th,none,-122.109272,37.430695,False,1,22400.0,22400.0
+5238,5719,,,24000.0,,2016-2017,,,,,False,1,24000.0,24000.0
+5249,5731,SUNY Polytechnic Institute,,26700.0,,2016-2017,,,-73.833052,42.691116,False,1,26700.0,26700.0
+5290,5778,Stowers Institute,,36000.0,,2016-2017,1st,,-94.574823,39.03698,False,1,36000.0,36000.0
+5318,5809,,,26200.0,,2016-2017,,,,,False,1,26200.0,26200.0
+5336,5830,"University at Albany, State University of New York",Public Administration,14370.0,,2016-2017,4th,,-73.837952,42.680569,False,1,14370.0,14370.0
+5356,5853,University of Sciences ,"PhD, pharmaceutics",15000.0,,2017-2018,1st,,124.6567485,8.485531,False,1,15000.0,15000.0
+5369,5867,,,19000.0,,2016-2017,,,,,False,1,19000.0,19000.0
+5504,6009,UK university not based in London,Fulbright Student award,12700.0,,2017-2018,1st,"Fulbright postgrad for an MA; amount is in pounds, not US  dollars",-0.1275,51.507220000000004,False,1,12700.0,12700.0
+5552,6059,,,15000.0,,2016-2017,1st,,,,False,1,15000.0,15000.0
+5634,6143,,Biomedical sciences,27000.0,,2016-2017,1st,,,,False,1,27000.0,27000.0
+5642,6152,St John's University  | St. John's University,English,16000.0,,2017-2018,,,100.56124399999999,13.810939000000001,False,2,29400.0,14700.0
+5657,6168,Montana Tech ,Geochemistry ,15200.0,,2015-2016,1st,This is a master's stipend. It includes a $2200/semester tuition waiver,-112.5576905,46.012147,False,1,15200.0,15200.0
+5692,6206,"University of Missouri , St. Louis",Psychology,14000.0,0.68,2017-2018,1st,,-90.310692,38.7107435,False,2,26000.0,13000.0
+5778,6303,,,32000.0,,2016-2017,1st,,,,False,1,32000.0,32000.0
+5798,6323,Western University,Anthropology,21744.0,,2016-2017,1st,,-81.275757,43.003772,False,1,21744.0,21744.0
+5800,6325,,,22909.0,,2016-2017,,,,,False,1,22909.0,22909.0
+5809,6334,,History,20000.0,,2016-2017,,,,,False,1,20000.0,20000.0
+5851,6378,,,8250.0,,2016-2017,,,,,False,1,8250.0,8250.0
+5854,6381,,,29000.0,,2016-2017,1st,,,,False,1,29000.0,29000.0
+5856,6383,,,30000.0,,2016-2017,1st,,,,False,1,30000.0,30000.0
+5857,6384,nc state university ,psychology,14000.0,,2016-2017,1st,,-78.69655300000001,35.798038,False,1,14000.0,14000.0
+5953,6491,,,40000.0,,2016-2017,,,,,False,1,40000.0,40000.0
+5965,6504,Grand Canyon University,Doctoral,25000.0,,2016-2017,1st,,-112.128956,33.5096025,False,1,25000.0,25000.0
+6011,6557,University of Oslo,Clinical Medicine/ Cancer Immunology ,38215.0,,2016-2017,2nd,,10.735543,59.915645999999995,False,1,38215.0,38215.0
+6012,6558,Iceland,engineering,32975.0,,2016-2017,2nd,net annual pay: 24500 USD,-18.6054668169534,64.9975884448459,False,1,32975.0,32975.0
+6014,6561,UC Berkeley,History,24000.0,,2016-2017,2nd,"My first year it was 22K; they are now raising it to 24K.  The tuition is essentially an accounting formality; tuition remission comes is a part of the fellowship contract.  For those who are not Americanists, it is generally not too difficult to get an extra couple of thousand dollars for the summer, though often with the stipulation that you are traveling internationally and then returning to the very expensive Bay Area housing market.  You don't have to TA or grade in the first year or the fourth year.",-122.27167,37.872253,False,1,24000.0,24000.0
+6030,6581,,,14700.0,,2016-2017,,"My monthly rent is half of my monthly check, not counting utilities. I have to take out $8,000 in loans per year to survive. ",,,False,1,14700.0,14700.0
+6050,6604,,,27000.0,,2016-2017,,,,,False,1,27000.0,27000.0
+6073,6637,Unniversity of Hawaii Manoa,English,16500.0,,2016-2017,,,-157.817621,21.297422500000003,False,1,16500.0,16500.0
+6079,6645,,,16225.0,,2016-2017,,,,,False,1,16225.0,16225.0
+6082,6648,HHMI Janelia Research Campus,,47500.0,,2016-2017,3rd,,-77.46459499999999,39.071483,False,1,47500.0,47500.0
+6108,6676,Salisbury university ,Biology,11600.0,,2016-2017,1st,,-75.60597050000001,38.3454575,False,1,11600.0,11600.0
+6155,6724,Bath,Computer Science,16557.0,,2015-2016,2nd,Additional 3k from second year+,-2.3586099999999997,51.38139,False,1,16557.0,16557.0
+6166,6736,Stanford,Microbiology ,37800.0,,2016-2017,1st,,-122.1677,37.4248,False,1,37800.0,37800.0
+6167,6737,nottingham trent university | Nottingham Trent University,School of science and technology,10005.0,,2016-2017,1st,,-1.1524640000000002,52.956867,False,2,29605.0,14802.5
+6184,6756,,,24200.0,,2016-2017,,,,,False,1,24200.0,24200.0
+6199,6774,,,18800.0,,2016-2017,,,,,False,1,18800.0,18800.0
+6209,6784,Seton Hall University,Biological Sciences,10500.0,0.39,2016-2017,2nd,,-74.247881,40.7425565,False,1,10500.0,10500.0
+6212,6787,Jackson State University (JSU),STEM,30000.0,1.48,2016-2017,6th and up,fellowship program called LSMAMP,-90.1848,32.299,False,1,30000.0,30000.0
+6227,6802,,Medical Sciences,24658.0,,2016-2017,,"Scholarship/stipend pay in lump sums at start of each term. TA/RA pay biweekly during respective terms.
+
+Budgeting very difficult with convoluted payment schedules and terrible online system.",,,False,1,24658.0,24658.0
+6239,6814,Hofstra Northwell School of Medicine,MD/PhD Program,32000.0,,2016-2017,3rd,,-73.5978385,40.7177825,False,1,32000.0,32000.0
+6273,6852,Durham university,Biology,13863.0,,2016-2017,3rd,,-1.5738085000000002,54.77063750000001,False,1,13863.0,13863.0
+6280,6859,,Biomedical Sciences,20000.0,,2016-2017,,,,,False,1,20000.0,20000.0
+6283,6863,SUNY Upstate Medical Center,Cell and Developmental Biology/College of Graduate Studies,24780.0,1.16,2016-2017,6th and up,A recently negotiated contract brought salary up to ~$25k for a Graduate Assistant.  Fees are higher before you pass your qualifying exam (~$800 per year).  Cost of living in Syracuse is relatively low unless you live close to downtown.  Parking options at Upstate range from $35-80 per month.,34.0,51.0,False,1,24780.0,24780.0
+6309,6890,California state university Northridge,BIOLOGY,13000.0,,2016-2017,3rd,,-118.53164699999999,34.239649,False,1,13000.0,13000.0
+6354,6939,New School,Sociology,20000.0,0.67,2016-2017,3rd,,-73.996482,40.736585999999996,False,1,20000.0,20000.0
+6361,6947,University of Greifswald ,Information Technology ,22000.0,,2016-2017,1st,,13.374707500000001,54.09471,False,1,22000.0,22000.0
+6391,6981,esf,environmental engineering,20000.0,,2016-2017,1st,,-46.626055,-23.603898,False,1,20000.0,20000.0
+6413,7012,University of Rochester,Neuroscience,27800.0,,2016-2017,1st,,-77.62915500000001,43.1281065,False,1,27800.0,27800.0
+6435,7037,,,14000.0,,2016-2017,,,,,False,1,14000.0,14000.0
+6496,7100,,History,30000.0,,2016-2017,1st,,,,False,1,30000.0,30000.0
+6500,7105,Mississippi State University,"Wildlife, Fisheries, and Aquaculture",23000.0,,2014-2015,4th,,-88.789084,33.454785,False,1,23000.0,23000.0
+6511,7117,,,21500.0,,2016-2017,,,,,False,1,21500.0,21500.0
+6515,7121,,,20000.0,,2016-2017,,,,,False,1,20000.0,20000.0
+6549,7160,,,22000.0,,2016-2017,1st,,,,False,1,22000.0,22000.0
+6560,7172,Marshall University,Biomedical Sciences,24455.0,1.27,2015-2016,1st,"Tuition and fees waived except $545/semester, and $243/summer. $850 paid toward student health insurance or student may take insurance offered to employees, and pay the employee portion while the program pays the university's portion. ",-82.42463149999999,38.42389350000001,False,1,24455.0,24455.0
+6565,7177,College of Charleston,Marine Biology,11000.0,,2012-2013,1st,"With TA, students pay in-state tuition",-79.9377405,32.784079,False,1,11000.0,11000.0
+6568,7181,University of Dayton (UD),Theology ,18000.0,0.91,2016-2017,1st,,-84.17909,39.739434499999994,False,1,18000.0,18000.0
+6574,7187,University of Liverpool (Great Britain),"Earth, Ocean and Ecological Sciences",20494.0,,2016-2017,1st,"British University,  University students aren't subject to tax so stipend is tax free. $20,494.31 is 14,050. Opportunities to help out as a demonstrator on modules at a rate of approx 15 per hour ($21) which is additional income to stipend. Stipends increase with inflation yearly. Cost of living is very low at a high standard. ",-2.968332,53.405765,False,1,20494.0,20494.0
+6648,7273,Columbia Teachers College,Sociology and Education,25000.0,,2016-2017,1st,"$25,000 for first 3 years",-81.02,34.05,False,1,25000.0,25000.0
+6660,7286,, engineer ,30000.0,,2016-2017,,,,,False,1,30000.0,30000.0
+6661,7287,,bio medical engineer ,30000.0,,2016-2017,,,,,False,1,30000.0,30000.0
+6679,7307,Stony Brook University,Political Science,20500.0,,2016-2017,,,-73.11536925,40.90919575,False,1,20500.0,20500.0
+6750,7387,Montclair State University,Teacher Education and Teacher Development,15000.0,,2016-2017,1st,,-74.198881,40.8609065,False,1,15000.0,15000.0
+6789,7427,Northwestern University (NU) Kellogg School of Management,Management,35000.0,,2016-2017,1st,,-87.672736,42.057413000000004,False,1,35000.0,35000.0
+6832,7472,University of Western Ontario,I/O Psychology,17900.0,,2016-2017,1st,"This is $1,000 more than the minimum as I received an entrance scholarship. There are many opportunities to take home more than the minimum, e.g. extra TAships, RAships, external funding, internships, etc.",-81.27144799999999,43.010782,False,2,51529.0,25764.5
+6848,7488,Hillsdale College,Political Science,20000.0,,2016-2017,1st,,-84.63368299999999,41.932446,False,1,20000.0,20000.0
+6870,7511,,Sociology,14500.0,,2016-2017,,,,,False,1,14500.0,14500.0
+6871,7512,,,14500.0,,2016-2017,,,,,False,1,14500.0,14500.0
+6880,7521,Princeton,Art History,31400.0,,2016-2017,,,-74.6593,40.3493,False,1,31400.0,31400.0
+6934,7578,,,19000.0,,2016-2017,,Health insurance covered. Tuition waiver. ,,,False,1,19000.0,19000.0
+7072,7721,Bucknell University,Chemistry,12600.0,,2015-2016,2nd,,-76.884203,40.953621500000004,False,1,12600.0,12600.0
+7077,7726,"Free university  of Bozen,Bolzano",Faculty of Computer Science,18774.0,,2015-2016,3rd,,11.350077,46.498079,False,1,18774.0,18774.0
+7098,7749,Pennsylvania State University (Penn State) Hershey,BMS - Biochemistry ,28500.0,,2016-2017,1st,Health insursnce $675 a year. On campus housing shared 1 bedroom $540. Single bedroom $910.,-76.674878,40.264593,False,1,28500.0,28500.0
+7142,7799,University of Alabama at Birmingham,Medical Sociology,22000.0,,2016-2017,4th,,-86.8071215,33.49976700000001,False,1,22000.0,22000.0
+7153,7811,,,23652.0,,2014-2015,,,,,False,1,23652.0,23652.0
+7176,7842,Southern California University of Health Sciences,Sports Medicine,41600.0,,2015-2016,1st,,-117.980052,33.922003000000004,False,1,41600.0,41600.0
+7235,7905,,,28000.0,,2014-2015,,,,,False,1,28000.0,28000.0
+7256,7927,,university of iowa ,8185.0,,2014-2015,1st,,,,False,1,8185.0,8185.0
+7260,7931,uc san diego,history,15000.0,,2006-2007,1st,,-117.223178,32.875197,False,1,15000.0,15000.0
+7278,7950,UC Davis,Transportation Technology and Policy,26000.0,,2015-2016,3rd,,-121.45196399999999,38.552521999999996,False,1,26000.0,26000.0
+7289,7964,,,20000.0,,2014-2015,,,,,False,1,20000.0,20000.0
+7334,8012,Georgia Institute of Technology/Emory University,Biomedical Engineering,24000.0,,2014-2015,4th,"Joint program between GaTech and Emory.  We pay approx $3300 in fees for the year and ~$700 in health insurance every year.  Also if you have a family the spouse/child health plans are ridiculously expensive, so not much of an option.  there are various merit based fellowships at Tech and extracurricular work opportunities at Emory that provide additional funds on top of your base stipend (most seem to be around ~$5000 to $8000 additional)",-85.1,33.58,False,1,24000.0,24000.0
+7346,8024,12,Molecular and Cellular Biology,20500.0,,2014-2015,3rd,,31.2,30.05,False,1,20500.0,20500.0
+7359,8038,"University of Alaska , Fairbanks (UAF)",Geophysics,26500.0,1.44,2014-2015,3rd,RA after becoming MS candidate. PhD is more after candidate status. MS before candidate was 24614 per annum,-147.8292,64.85532099999999,False,1,26500.0,26500.0
+7360,8039,,,15100.0,,2014-2015,,,,,False,1,15100.0,15100.0
+7409,8091,,,16250.0,,2014-2015,5th,,,,False,1,16250.0,16250.0
+7495,8181,,,28500.0,,2014-2015,,,,,False,1,28500.0,28500.0
+7520,8207,Massey University (New Zealand),School of Psychology,25000.0,,2014-2015,3rd,,175.6169295,-40.3850435,False,1,25000.0,25000.0
+7521,8208,,,11800.0,,2014-2015,3rd,,,,False,1,11800.0,11800.0
+7627,8316,University of Northern Colorado (UNC),Chemistry,22000.0,1.25,2014-2015,5th,,-104.6968945,40.4055055,False,1,22000.0,22000.0
+7651,8342,,Pharmacology,29419.0,,2014-2015,,,,,False,1,29419.0,29419.0
+7657,8348,,,28000.0,,2014-2015,4th,,,,False,1,28000.0,28000.0
+7670,8362,,,29420.0,,2014-2015,,,,,False,1,29420.0,29420.0
+7689,8382,Weill Cornell Medical College,Computational Biology and Medicine,35375.0,,2014-2015,5th,,51.439606,25.318307500000003,False,1,35375.0,35375.0
+7712,8410,,,20500.0,,2014-2015,2nd,,,,False,1,20500.0,20500.0
+7747,8448,Texas A&M Health Science Center,Institue of Biosciences and Technology,25000.0,,2014-2015,3rd,"Program located in Houston, but paid as College station minimium",-97.363831,31.076421000000003,False,1,25000.0,25000.0
+7881,8588,,Electrical and Computer Engineering,24337.0,,2014-2015,4th,,,,False,1,24337.0,24337.0
+7904,8611,Pardee RAND Graduate School,Policy Analysis,22225.0,,2014-2015,1st,,-77.020042,38.886559000000005,False,1,22225.0,22225.0
